@@ -1,0 +1,17 @@
+query_id,question,method,result_count,unique_companies,mean_semantic_score,mean_keyword_count
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Hybrid,5,4,0.6980976880981148,1.8
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Semantic,5,5,0.7324899601321417,0.2
+Q02,What factors affected the company's revenue and sales performance?,Hybrid,5,4,0.6334188533721571,1.6
+Q02,What factors affected the company's revenue and sales performance?,Semantic,5,3,0.6490215263845943,0.4
+Q03,What does the company disclose about operating cash flows?,Hybrid,5,4,0.6958375894264446,5
+Q03,What does the company disclose about operating cash flows?,Semantic,5,2,0.7459383110469995,0.4
+Q04,What are the company's major debt and liquidity risks?,Hybrid,5,4,0.6658527034776239,7
+Q04,What are the company's major debt and liquidity risks?,Semantic,5,4,0.6971546255808587,3
+Q05,What factors affected operating profitability and profit margins?,Hybrid,5,3,0.6405529902292979,2.2
+Q05,What factors affected operating profitability and profit margins?,Semantic,5,3,0.693928506630176,0.4
+Q06,What does the company disclose about competition in its industry?,Hybrid,5,2,0.5895359079604842,1
+Q06,What does the company disclose about competition in its industry?,Semantic,5,5,0.6342749564196811,0
+Q07,What risks and challenges are associated with acquisitions and integration?,Hybrid,5,4,0.778605344197739,2.4
+Q07,What risks and challenges are associated with acquisitions and integration?,Semantic,5,3,0.8299241619906759,0
+Q08,How do economic conditions affect the company's business and financial performance?,Hybrid,5,3,0.6410415496050259,3
+Q08,How do economic conditions affect the company's business and financial performance?,Semantic,5,3,0.681670887783398,1

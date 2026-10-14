@@ -1,0 +1,9 @@
+query_id,question,expected_topic
+Q01,What are the principal business risks and uncertainties?,Risk factors
+Q02,What factors affect the company's revenue and sales?,Revenue
+Q03,What does the company disclose about operating cash flows?,Cash flow
+Q04,What are the company's major debt and liquidity risks?,Debt and liquidity
+Q05,What factors affect operating profitability and margins?,Profitability
+Q06,What competitive pressures does the company face?,Competition
+Q07,What risks arise from acquisitions and integration?,Acquisition risk
+Q08,What economic conditions could affect business performance?,Macroeconomic risk

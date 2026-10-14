@@ -1,0 +1,165 @@
+R-InsightRAG - Evidence-Grounded Financial Q&A
+Question: What risks and uncertainties does Arrowhead Pharmaceuticals disclose in its 2024 annual report?
+Company filter: ARROWHEAD PHARMACEUTICALS, INC.
+Fiscal year filter: 2024
+
+EVIDENCE-BASED RESPONSE
+The system retrieved 5 SEC filing passages after semantic retrieval and keyword reranking.
+The passages below are supporting evidence, not an independently verified financial conclusion.
+
+[S1] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.6465
+Keyword hits: 0
+Reranking score: 0.6465
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+laboration and License Agreement by and between Arrowhead Pharmaceuticals, Inc. and Horizon Therapeutics Ireland DAC, dated June 18, 2021†
+Quarterly Report on Form 10-Q, as Exhibit 10.4 August 5, 2021
+
+10.29 
+Collaboration and License Agreement by and between Arrowhead Pharmaceuticals, Inc. and Glaxosmithkline Intellectual Property, dated November 22, 2021
+Quarterly Report on Form 10-Q, as Exhibit 10.1 February 2, 2022
+
+10.30 
+Royalty Purchase Agreement, dated as of November 9, 2022, by and between Arrowhead Pharmaceuticals, Inc. and Royalty Pharma Investments 2019 ICAV
+Quarterly Report on Form 10-Q, as Exhibit 10.1 February 6, 2023
+
+10.31 
+Lease Agreement between University Research Park, Incorporated and Arrowhead Madison, Inc., dated January 8, 2016
+Quarterly Report on Form 10-Q, as Exhibit 10.1 February 9. 2016
+
+10.32 
+Amendment No. 1 to Lease Agreement between Arrowhead Madison, Inc. and University Research Park, Incorporated, dated October 22, 2018
+Annual Report on Form 10-K, as Exhibit 10.23 November 23, 2020
+
+----------------------------------------
+
+[S2] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.6229
+Keyword hits: 0
+Reranking score: 0.6229
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+reement by and between Arrowhead Pharmaceuticals, Inc. and GlaxoSmithKline Intellectual Property (No. 3) Limited, dated December 11, 2023
+
+Quarterly Report on Form 10-Q, as Exhibit 10.1
+August 8, 2024
+
+10.25 
+Stock Purchase Agreement by and between Johnson & Johnson Innovation-JJDC, Inc. and Arrowhead Pharmaceuticals, Inc., dated October 3, 2018
+Quarterly Report on Form 10-Q, as Exhibit 10.3 February 7, 2019
+
+10.26†
+
+Exclusive License and Co-Funding Agreement by and between Arrowhead Pharmaceuticals, Inc. and Takeda Pharmaceuticals U.S.A., Inc., dated October 7, 2020†
+Quarterly Report on Form 10-Q, as Exhibit 10.1 February 4, 2021
+
+10.27 
+First Amendment to Exclusive License and Co-Funding Agreement by and between Arrowhead Pharmaceuticals, Inc. and Takeda Pharmaceuticals U.S.A., Inc. dated March 15, 2022
+Quarterly Report on Form 10-Q, as Exhibit 10.1 May 10, 2022
+
+10.28†
+
+Collaboration and License Agreement by and between Arrowhead Pharmaceuticals, Inc. and Horizon Therapeutics Ireland DAC, dated June 18, 2021†
+Quarterly Report on Form 10-Q, as Exhibit 10.4 August 5, 2021
+
+----------------------------------------
+
+[S3] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.5676
+Keyword hits: 2
+Reranking score: 0.6176
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+n at September 30, 2024, for which the Company does not expect to make payments within the next 12 months. See Note 13 of Notes to the Company’s Consolidated Financial Statements of Part IV, “Item 15. Exhibits and Financial Statement Schedules.”
+•Commitments related to the Company’s clinical, manufacturing and business operation related agreements totaled $471.9 million as of September 30, 2024. However, many of these agreements are cancellable.
+•The Company has not entered into, nor does it currently have, any off-balance sheet arrangements (as defined under SEC rules).
+ITEM 7A.QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+The Company is subject to market risk exposures primarily due to its investing activities. The primary market risk exposure is change in interest rates. Adverse changes to rates may occur due to changes in the liquidity of a market or to changes in market perceptions of creditworthiness and risk tolerance.
+The Company’s investment criteria are governed by its Investment Policy. The Company primarily invests its excess cash in securities of reputable financial institutions, corporations, and US government agencies with strong credit ratings.
+
+----------------------------------------
+
+[S4] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.6117
+Keyword hits: 0
+Reranking score: 0.6117
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Rose, Snyder & Jacobs LLP
+We have served as the Company’s auditor from 2004 to 2023.
+Encino, California
+November 29, 2023
+F-5
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Balance Sheets
+(in thousands, except per share amounts)
+
+September 30,
+2024 2023
+ASSETS 
+Current assets: 
+Cash, cash equivalents and restricted cash $ 102,685 $ 110,891 
+Available-for-sale securities, at fair value 578,276 292,735 
+
+Prepaid expenses 9,537 8,813 
+Other current assets 4,973 4,033 
+Total current assets 695,471 416,472 
+Property, plant and equipment, net 386,032 290,262 
+Intangible assets, net 8,562 10,262 
+Right-of-use assets 45,255 45,297 
+Other assets 4,482 3,259 
+Total Assets $ 1,139,802 $ 765,552
+
+----------------------------------------
+
+[S5] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.6010
+Keyword hits: 0
+Reranking score: 0.6010
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+ement by and among Alnylam Pharmaceuticals, Inc. and F. Hoffmann-La Roche Ltd and Hoffman-La Roche Inc., dated October 29, 2009 †
+Annual Report on Form 10-K, as Exhibit 10.36 December 20, 2011
+
+10.17†
+
+Non-Exclusive License Agreement between Arrowhead Research Corporation and Roche entities, dated October 21, 2011†
+Annual Report on Form 10-K, as Exhibit 10.33 December 20, 2011
+
+10.18†
+
+License Agreement by and between Alnylam Pharmaceuticals, Inc., Arrowhead Research Corporation and Arrowhead Madison, Inc.†
+Quarterly Report on Form 10-Q, as Exhibit 10.1 August 12, 2014
+
+10.19†
+
+Second Collaboration and Licensing Agreement between Arrowhead Pharmaceuticals, Inc. and Amgen Inc., dated September 28, 2016†
+Annual Report on Form 10-K, as Exhibit 10.19 December 14, 2016
+
+77
+
+Incorporated by Reference Herein
+ExhibitNumber Description Form Date
+10.20 
+Common Stock Purchase Agreement between the Company and Amgen Inc., dated September 28, 2016
+Amendment No. 1 to the Registration Statement on Form S-3, as Exhibit 10.1) November 25, 2016
+
+10.21†
+
+----------------------------------------
+
+INTERPRETATION LIMITS
+- Similarity measures semantic relevance, not truth.
+- Keyword reranking is a heuristic and may not improve every query.
+- A retrieved excerpt may omit important surrounding context.
+- These passages do not automatically establish a complete answer.
+- Absence of evidence in these passages does not prove absence of risk.
+- Verify figures and statements against the original SEC filing.
+- No paid LLM or generative API was used to create this response.

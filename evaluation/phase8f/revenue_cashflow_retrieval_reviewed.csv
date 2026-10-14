@@ -1,0 +1,327 @@
+query_id,method,rank,question_used,company_name,fiscal_year,semantic_score,keyword_count,keyword_score,hybrid_score,relevant,review_notes,chunk_text,source_url,accession_number,chunk_id,company_id,similarity,source_text_path,chunk_index,character_count,word_count
+Q02,Original semantic,1,What factors affected the company's revenue and sales performance?,MSC INDUSTRIAL DIRECT CO INC,2022,0.6554502071034023,2,0.4,0.5788151449723815,1,Reports net-sales results and pricing context relevant to revenue performance.,"the products that the Company sells. The Company has implemented price realization strategies in response to increased costs the Company faces. We will continue to monitor the current economic conditions for the impact on our customers and markets and assess both risks and opportunities that may affect our business and operations.
+
+25
+
+Results of Operations
+
+Fiscal Year Ended September 3, 2022 Compared to the Fiscal Year Ended August 28, 2021
+
+The table below summarizes the Company’s results of operations both in dollars (in thousands) and as a percentage of net sales for the periods indicated:
+
+Fiscal Years Ended
+
+September 3, 2022
+
+August 28, 2021
+
+(53 weeks)
+
+(52 weeks)
+
+Change
+
+$
+
+%
+
+$
+
+%
+
+$
+
+%
+
+Net sales
+
+$
+
+3,691,893
+
+100.0%
+
+$
+
+3,243,224 
+
+100.0%
+
+$
+
+448,669
+
+13.8%
+
+Cost of goods sold
+
+2,133,645
+
+57.8%
+
+1,909,709 
+
+58.9%
+
+223,936
+
+11.7%
+
+Gross profit
+
+1,558,248 
+
+42.2%
+
+1,333,515 
+
+41.1%
+
+224,733 
+
+16.9%
+
+Operating expenses
+
+1,083,862 
+
+29.4%
+
+994,468 
+
+30.7%
+
+89,394 
+
+9.0%
+
+Impairment loss, net
+
+—
+
+0.0%
+
+5,886 
+
+0.2%
+
+(5,886)
+
+(100)%
+
+Restructuring and other costs
+
+15,805 
+
+0.4%
+
+31,392 
+
+1.0%
+
+(15,587)
+
+(49.7)%
+
+Gain on sale of property
+
+(10,132)
+
+(0.3)%
+
+—
+
+0.0%",https://www.sec.gov/Archives/edgar/data/1003078/000100307822000127/msm-20220903x10k.htm,0001003078-22-000127,1003078_2022_000100307822000127_151,1003078,0.6554502071034023,documents/extracted_text/1003078_2022_000100307822000127.txt,151,1190,180
+Q02,Original semantic,2,What factors affected the company's revenue and sales performance?,"KNOW LABS, INC.",2019,0.6548701872221078,2,0.4,0.5784091310554754,1,Provides year-over-year revenue and sales figures and the decline in revenue.,"this subsidiary. RESULTS OF OPERATIONS The following table presents certain consolidated statement of operations information and presentation of that data as a percentage of change from year-to-year. (dollars in thousands) Years Ended September 30, 2019 2018 $ Variance % Variance Revenue $1,805 $4,303 $(2,498) -58.1% Cost of sales 1,378 3,482 (2,104) 60.4% Gross profit 427 821 (394) -48.0% Research and development expenses 1,258 570 688 -120.7% Selling, general and administrative expenses 4,182 2,509 1,673 -66.7% Operating loss (5,013) (2,258) (2,755) -122.0% Other (expense) income: Interest expense (2,945) (1,195) (1,750) -146.4% Other income (10) 25 (35) 140.0% Gain on debt settlements 356 170 186 109.4% Total other income (expense), net (2,599) (1,000) (1,599) -159.9% Loss before income taxes (7,612) (3,258) (4,354) -133.6% Income taxes - current (benefit) - - - 0.0% Net loss $(7,612) $(3,258) $(4,354) -133.6% 23 YEAR ENDED SEPTEMBER 30, 2019 COMPARED TO THE YEAR ENDED SEPTEMBER 30, 2018 Sales Net revenue for the year ended September 30, 2019 decreased $2,498,000 to $1,805,000 as compared to $4,303,000 for the year ended September 30, 2018.",https://www.sec.gov/Archives/edgar/data/1074828/000165495419014278/knwn_10-k.htm,0001654954-19-014278,1074828_2019_000165495419014278_116,1074828,0.6548701872221078,documents/extracted_text/1074828_2019_000165495419014278.txt,116,1161,175
+Q02,Original semantic,3,What factors affected the company's revenue and sales performance?,MSC INDUSTRIAL DIRECT CO INC,2024,0.6485076080839984,2,0.4,0.5739553256587988,1,Provides net-sales and year-over-year change figures.,"e.
+27
+Table of Contents
+We will monitor the current economic conditions for the impact on our customers and markets and assess both risks and opportunities that may affect our business and operations.
+Results of Operations
+Fiscal Year Ended August 31, 2024 Compared to the Fiscal Year Ended September 2, 2023
+The table below summarizes the Company’s results of operations both in dollars (in thousands) and as a percentage of net sales for the periods indicated:
+
+Fiscal Years Ended 
+August 31, 2024(52 weeks) September 2, 2023(52 weeks) Change
+$ % $ % $ %
+Net sales $ 3,820,951 100.0 % $ 4,009,282 100.0 % $ (188,331) (4.7) %
+Cost of goods sold 2,248,168 58.8 % 2,366,317 59.0 % (118,149) (5.0) %
+Gross profit 1,572,783 41.2 % 1,642,965 41.0 % (70,182) (4.3) %
+Operating expenses 1,167,870 30.6 % 1,151,295 28.7 % 16,575 1.4 %
+Restructuring and other costs 14,526 0.4 % 7,937 0.2 % 6,589 83.0 %
+Income from operations 390,387 10.2 % 483,733 12.1 % (93,346) (19.3) %
+Total other expense (47,638) (1.2) % (27,577) (0.7) % (20,061) 72.7 %
+Income before provision for income taxes 342,749 9.0 % 456,156 11.4 % (113,407) (24.9) %
+Provision for income taxes 86,792 2.3 % 113,049 2.8 % (26,257) (23.2) %
+Ne",https://www.sec.gov/Archives/edgar/data/1003078/000100307824000107/msm-20240831.htm,0001003078-24-000107,1003078_2024_000100307824000107_163,1003078,0.6485076080839984,documents/extracted_text/1003078_2024_000100307824000107.txt,163,1200,209
+Q02,Original semantic,4,What factors affected the company's revenue and sales performance?,WD 40 CO,2018,0.6431808219113763,4,0.8,0.6902265753379633,0,Primarily broad risk-factor discussion; the visible passage does not substantively explain revenue or sales changes.,"l performance could vary materially from its internal expectations and those of the market. Failure to meet or exceed these expectations could cause the market price of the Company’s stock to decline. The Company’s operating results and financial performance may be negatively influenced by a number of factors, many of which are discussed in this Item 1A “Risk Factors”. In addition, sales volume growth, whether due to acquisitions or internal growth, can place burdens on management resources and financial controls that, in turn, can have a negative impact on operating results and financial condition of the Company. To some extent, the Company plans its expense levels in anticipation of future revenues. If actual revenues fall short of these expectations, operating results may be adversely affected by reduced operating margins due to actual expense levels that are higher than might otherwise have been appropriate. ﻿ Malfunctions of the critical information systems that the Company uses for the daily operations of its business, cyberattacks and privacy breaches could adversely affect the Company’s ability to conduct business.",https://www.sec.gov/Archives/edgar/data/105132/000010513218000035/wdfc-20180831x10k.htm,0000105132-18-000035,105132_2018_000010513218000035_66,105132,0.6431808219113763,documents/extracted_text/105132_2018_000010513218000035.txt,66,1140,174
+Q02,Original semantic,5,What factors affected the company's revenue and sales performance?,MSC INDUSTRIAL DIRECT CO INC,2025,0.6430988076020866,3,0.6,0.6301691653214605,1,Discusses revenue disaggregation and how economic and industry factors affect revenue and cash flows.,"ity when customers prepay but the Company has not yet satisfied its performance obligations. The Company did not have material contract assets or liabilities as of August 30, 2025 and August 31, 2024.
+Disaggregation of Revenue
+The Company serves a large number of customers of various types and in diverse industries, which are subject to different economic and industry factors. The Company’s presentation of net sales by customer end-market, customer type and geography most reasonably depicts how the nature, amount, timing and uncertainty of Company revenue and cash flows are affected by economic and industry factors. The Company does not disclose net sales information by product category as it is impracticable to do so as a result of its numerous product offerings and the way its business is managed.
+51
+Table of Contents
+The following table presents the Company’s percentage of revenue by customer end-market for fiscal years 2025, 2024, and 2023:
+
+For the Fiscal Years Ended (2)",https://www.sec.gov/Archives/edgar/data/1003078/000100307825000123/msm-20250830.htm,0001003078-25-000123,1003078_2025_000100307825000123_238,1003078,0.6430988076020866,documents/extracted_text/1003078_2025_000100307825000123.txt,238,990,158
+Q02,Expanded semantic,1,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",CIENA CORP,2023,0.6766249927707171,3,0.5,0.6236374949395019,1,"Directly identifies factors that can affect quarterly revenue, including customer spending, order timing and volume.","rs to grow and those orders to represent a more typical composition of our quarterly revenue over time. However, within these dynamics, our results for a particular period can be difficult to predict. These dynamics, as well as a range of factors, including those set forth below, can materially adversely affect quarterly revenue, gross margin, and operating results:
+•changes in spending levels or network deployment plans by customers, particularly with respect to our service provider and cloud provider customers;
+•order timing and volume, including book to revenue orders;
+•the timing of revenue recognition on sales, particularly relating to large orders;
+•availability of components and manufacturing capacity;
+•shipment and delivery timing, including any deferral of delivery;
+•backlog levels;
+•the level of competition and pricing pressure in our industry;
+•the pace and impact of price erosion that we regularly encounter in our markets;
+•the impact of commercial concessions or unfavorable commercial terms required to maintain incumbency or secure new opportunities with key customers;
+•the mix of revenue by product segment, geography, and customer in any particular quarter;
+•our level",https://www.sec.gov/Archives/edgar/data/936395/000093639523000044/cien-20231028.htm,0000936395-23-000044,936395_2023_000093639523000044_187,936395,0.6766249927707171,documents/extracted_text/936395_2023_000093639523000044.txt,187,1200,177
+Q02,Expanded semantic,2,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.","F5, INC.",2024,0.6690321794919369,1,0.1666666666666666,0.5183225256443559,1,"Identifies customer budgets, purchase delays, attach rates and renewals as demand/sales drivers.","of the application delivery market;
+•reduced visibility into our customers’ spending and implementation plans;
+•reductions in customers’ budgets for data center and other IT purchases or delays in these purchases;
+•changes in end-user customer attach rates and renewal rates for our services;
+28
+Table of Contents
+•fluctuations in our gross margins, including the factors described herein, which may contribute to such fluctuations;
+•our ability to control costs, including operating expenses, the costs of hardware and software components, and other manufacturing costs;
+•our ability to develop, introduce and gain market acceptance of new products, technologies and services, and our success in new and evolving markets;
+•any significant changes in the competitive environment, including the entry of new competitors or the substantial discounting of products or services;
+•the timing and execution of product transitions or new product introductions, and related inventory costs;
+•variations in sales channels, product costs, or mix of products sold;
+•our ability to establish and manage our distribution channels, and the effectiveness of any changes we make to our distribution model;
+•the abili",https://www.sec.gov/Archives/edgar/data/1048695/000104869524000185/ffiv-20240930.htm,0001048695-24-000185,1048695_2024_000104869524000185_167,1048695,0.6690321794919369,documents/extracted_text/1048695_2024_000104869524000185.txt,167,1200,174
+Q02,Expanded semantic,3,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",BROOKS AUTOMATION INC,2018,0.6675023383115749,4,0.6666666666666666,0.6672516368181024,0,The excerpt is a broad risk-factor list; the visible text does not directly explain revenue/sales performance.,"such services; · new products, services or technological innovations by our competitors, which can, among other things, render our products less competitive due to the rapid technological changes in the markets in which we provide products and services; · the timing and related costs of any acquisitions, divestitures or other strategic transactions; · our ability to reduce our costs in response to decreased demand for our products and services; · our ability to accurately estimate customer demand, including the accuracy of demand forecasts used by us; · disruptions in our manufacturing process or in the supply of components to us; · write-offs for excess or obsolete inventory; · competitive pricing pressures; and · increased amount of investment into the infrastructure to support our growth, including capital equipment, research and development, as well as selling and marketing initiatives to support continuous product innovation, technological capability enhancements and sales efforts. The timing of revenue generation coupled with the increased amount of investment may result in operating losses.",https://www.sec.gov/Archives/edgar/data/933974/000155837018009497/brks-20180930x10k.htm,0001558370-18-009497,933974_2018_000155837018009497_60,933974,0.6675023383115749,documents/extracted_text/933974_2018_000155837018009497.txt,60,1114,165
+Q02,Expanded semantic,4,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",F5 NETWORKS INC,2018,0.6640533929964922,1,0.1666666666666666,0.5148373750975446,1,Identifies customer spending and purchase delays as factors affecting sales-related business performance.,"he growth rate of the application delivery market;•reduced visibility into our customers’ spending and implementation plans;•reductions in customers’ budgets for data center and other IT purchases or delays in these purchases;•changes in end-user customer attach rates and renewal rates for our services;•fluctuations in our gross margins, including the factors described herein, which may contribute to such fluctuations;•our ability to control costs, including operating expenses, the costs of hardware and software components, and other manufacturing costs;30Table of Contents•our ability to develop, introduce and gain market acceptance of new products, technologies and services, and our success in new and evolving markets;•any significant changes in the competitive environment, including the entry of new competitors or the substantial discounting of products or services;•the timing and execution of product transitions or new product introductions, and related inventory costs;•variations in sales channels, product costs, or mix of products sold;•our ability to establish and manage our distribution channels, and the effectiveness of any changes we make to our distribution model;•the abi",https://www.sec.gov/Archives/edgar/data/1048695/000104869518000031/ffiv10k9-30x2018.htm,0001048695-18-000031,1048695_2018_000104869518000031_172,1048695,0.6640533929964922,documents/extracted_text/1048695_2018_000104869518000031.txt,172,1200,164
+Q02,Expanded semantic,5,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",WD 40 CO,2018,0.6560072917457164,3,0.5,0.6092051042220015,1,Discusses sales-volume growth and challenges in growing sales in developed markets.,"y, (iii) drive growth within its existing markets through innovation, renovation and enhanced merchandising and marketing of its established brands, and (iv) capture market share from its competitors. It is more difficult for the Company to achieve sales volume growth in developed markets where the Company’s products are widely used as compared to in developing or emerging markets where the Company’s products have been newly introduced or are not as well known by consumers. In order to protect the Company’s existing market share or capture additional market share from its competitors, the Company may need to increase its expenditures related to promotions and advertising or introduce and establish new products or product lines. In past periods, the Company has also increased sales prices on certain of its products in response to increased costs for components and raw materials. Sales price increases may slow sales volume growth or create declines in volume in the short term as customers and end users adjust to sales price increases.",https://www.sec.gov/Archives/edgar/data/105132/000010513218000035/wdfc-20180831x10k.htm,0000105132-18-000035,105132_2018_000010513218000035_44,105132,0.6560072917457164,documents/extracted_text/105132_2018_000010513218000035.txt,44,1048,165
+Q02,Expanded hybrid,1,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",SANMINA CORP,2022,0.6441029080304151,6,1.0,0.7508720356212906,1,"Directly describes factors that may reduce net sales, including customer demand and pricing pressure.","either of which could reduce our sales, gross margins and net income. A number of factors could affect these industries in general and our customers in particular, leading to reductions in net sales. These factors include:
+•intense competition among our customers and their competitors, leading to reductions in prices for their products and increases in pricing pressure placed on us;
+•failure of our customers’ products to gain widespread commercial acceptance, which could decrease the volume of orders our customers place with us;
+•changes in regulatory requirements affecting the products we build for our customers, leading to product redesigns or obsolescence and potentially causing us to lose business; and
+•the negative effects of inflation and any potential resultant recession on customer demand.
+We realize a substantial portion of our revenues from communications equipment customers. This market is highly competitive, particularly in the area of price.",https://www.sec.gov/Archives/edgar/data/897723/000089772322000029/sanm-20221001.htm,0000897723-22-000029,897723_2022_000089772322000029_96,897723,0.6441029080304151,documents/extracted_text/897723_2022_000089772322000029.txt,96,968,144
+Q02,Expanded hybrid,2,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",SANMINA CORP,2018,0.6433109295172524,5,0.8333333333333334,0.7003176506620767,1,"Directly describes factors that may reduce net sales, including pricing pressure and order volumes.","ales, gross margins and net income. A number of factors could affect any of these industries in general, or our customers in particular, and lead to reductions in net sales, thus harming our business. These factors include:•intense competition among our customers and their competitors, leading to reductions in prices for their products and pricing pressures on us;•failure of our customers' products to gain widespread commercial acceptance which could decrease the volume of orders customers place with us;•changes in regulatory requirements affecting the products we build for our customers, leading to product obsolescence and potentially causing us to lose business; and •recessionary periods in our customers' markets, which decrease orders from affected customers, such as the currently depressed conditions in the oil and gas industry, which decrease orders from affected customers.We realize a substantial portion of our revenues from communications equipment customers. This market is highly competitive, particularly in the area of price.",https://www.sec.gov/Archives/edgar/data/897723/000089772318000031/sanmina10-k_sep292018.htm,0000897723-18-000031,897723_2018_000089772318000031_81,897723,0.6433109295172524,documents/extracted_text/897723_2018_000089772318000031.txt,81,1050,152
+Q02,Expanded hybrid,3,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",BROOKS AUTOMATION INC,2018,0.6675023383115749,4,0.6666666666666666,0.6672516368181024,0,The excerpt is a general competitive/demand risk list without a direct revenue or sales explanation.,"such services; · new products, services or technological innovations by our competitors, which can, among other things, render our products less competitive due to the rapid technological changes in the markets in which we provide products and services; · the timing and related costs of any acquisitions, divestitures or other strategic transactions; · our ability to reduce our costs in response to decreased demand for our products and services; · our ability to accurately estimate customer demand, including the accuracy of demand forecasts used by us; · disruptions in our manufacturing process or in the supply of components to us; · write-offs for excess or obsolete inventory; · competitive pricing pressures; and · increased amount of investment into the infrastructure to support our growth, including capital equipment, research and development, as well as selling and marketing initiatives to support continuous product innovation, technological capability enhancements and sales efforts. The timing of revenue generation coupled with the increased amount of investment may result in operating losses.",https://www.sec.gov/Archives/edgar/data/933974/000155837018009497/brks-20180930x10k.htm,0001558370-18-009497,933974_2018_000155837018009497_60,933974,0.6675023383115749,documents/extracted_text/933974_2018_000155837018009497.txt,60,1114,165
+Q02,Expanded hybrid,4,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.","ENERGIZER HOLDINGS, INC.",2023,0.6375171365700558,4,0.6666666666666666,0.6462619955990391,1,Explains how price increases can slow sales growth and cause volume declines.,"ive to our prices. We may not be able to increase our prices in response to production cost increases, which would decrease our profit margins and negatively impact our business and financial results.
+12
+We have implemented price increases in the past and may implement price increases in the future, which may slow sales growth or create volume declines in the short term as customers and consumers adjust to these price increases. In addition, our competitors may or may not take competitive actions, which may lead to sales declines and loss of market share. If we are unable to increase market share in existing product lines, develop product innovations, undertake sales, marketing and advertising initiatives that grow our product categories or develop, acquire or successfully launch new products or brands, we may not achieve our sales growth objectives. Furthermore, a general decline in the markets for certain product categories has had and may in the future have a negative impact on our financial condition and results of operation.",https://www.sec.gov/Archives/edgar/data/1632790/000163279023000064/enr-20230930.htm,0001632790-23-000064,1632790_2023_000163279023000064_117,1632790,0.6375171365700558,documents/extracted_text/1632790_2023_000163279023000064.txt,117,1045,168
+Q02,Expanded hybrid,5,"Discuss revenue, net sales, sales growth, changes in sales volume, product pricing, product mix, customer demand, units sold, price increases, volume declines, geographic sales, segment revenue, market conditions, customer concentration, and factors explaining increases or decreases in revenue.",ENERPAC TOOL GROUP CORP,2023,0.6200324915243897,4,0.6666666666666666,0.6340227440670727,1,Identifies demand and timing of sales as factors affecting revenue and operating results.,"fixed, due in part to significant selling and manufacturing costs. Small declines in revenues could disproportionately affect operating results in a quarter and the price of our common stock may fall. Other factors that could significantly affect quarterly operating results include, but are not limited to:
+•demand for our products and services;
+•the timing of sales of our products and services;
+•changes in foreign currency exchange rates;
+•changes in applicable tax rates;
+•an impairment of goodwill or other intangible assets;
+•the occurrence of restructuring charges;
+•unanticipated delays or problems in introducing new products;
+•announcements by competitors of new products, services or technological innovations;
+•changes in our pricing policies or the pricing policies of our competitors;
+•increased expenses, whether related to sales and marketing, raw materials or supplies, labor matters, product development or administration;
+•major changes in the level of economic activity in major regions of the world in which we do business;
+•costs related to possible future acquisitions or divestitures of technologies or businesses;
+•an increase in the number or magnitude of product liability",https://www.sec.gov/Archives/edgar/data/6955/000000695523000034/epac-20230831.htm,0000006955-23-000034,6955_2023_000000695523000034_102,6955,0.6200324915243897,documents/extracted_text/6955_2023_000000695523000034.txt,102,1200,174
+Q03,Original semantic,1,What does the company disclose about operating cash flows?,ABM INDUSTRIES INC /DE/,2023,0.7624389025494401,5,0.5555555555555556,0.7003738984512747,1,Directly explains operating cash flows and identifies key drivers such as revenue and collections.,"n of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal
+31
+settlements.
+
+Years Ended October 31,
+(in millions) 2023 2022 2021
+
+Net cash provided by operating activities 243.3 20.4 314.3 
+
+Net cash used in investing activities (62.1) (241.5) (740.0)",https://www.sec.gov/Archives/edgar/data/771497/000077149723000025/abm-20231031.htm,0000771497-23-000025,771497_2023_000077149723000025_151,771497,0.7624389025494401,documents/extracted_text/771497_2023_000077149723000025.txt,151,939,143
+Q03,Original semantic,2,What does the company disclose about operating cash flows?,ABM INDUSTRIES INC /DE/,2021,0.7455187264171536,3,0.3333333333333333,0.6218631084920074,1,Discusses operating cash flow as a performance indicator and begins describing its drivers.,"materials into the environment or otherwise relating to the protection of the environment, as well as laws and regulations relating to, among other things, labor, wages, and health and safety matters. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal settlements.",https://www.sec.gov/Archives/edgar/data/771497/000077149721000038/abm-20211031.htm,0000771497-21-000038,771497_2021_000077149721000038_165,771497,0.7455187264171536,documents/extracted_text/771497_2021_000077149721000038.txt,165,938,142
+Q03,Original semantic,3,What does the company disclose about operating cash flows?,ABM INDUSTRIES INC /DE/,2025,0.74197995733362,5,0.5555555555555556,0.6860526368002006,1,Directly discusses operating cash flow and its relationship to financial performance.,"g other things, labor, wages, and health and safety matters, as well as laws and regulations relating to the discharge of materials into the environment or otherwise relating to the protection of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; profitability levels of our jobs; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; the actual payments of contingent consideration made in excess of the acquisition-date fair value; and the timing and amount of payments on insurance claims and legal settlements.
+
+Year Ended October 31,
+(in millions) 2025 2024 2023
+
+Net cash provided by operating activities 234.4 226.7 243.3",https://www.sec.gov/Archives/edgar/data/771497/000077149725000031/abm-20251031.htm,0000771497-25-000031,771497_2025_000077149725000031_159,771497,0.74197995733362,documents/extracted_text/771497_2025_000077149725000031.txt,159,1197,182
+Q03,Original semantic,4,What does the company disclose about operating cash flows?,ABM INDUSTRIES INC /DE/,2022,0.7416168847000589,5,0.5555555555555556,0.6857984859567079,1,"Directly identifies revenue, collection timing and supplier payments as operating cash-flow drivers.","n of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal settlements.
+
+Years Ended October 31,
+(in millions) 2022 2021 2020
+Net cash provided by operating activities of continuing operations $ 20.4 $ 314.3 $ 457.4 
+Net cash provided by operating activities of discontinued operations — — 0.1 
+Net cash provided by operating activities 20.4 314.3 457.5 
+
+Net cash used in investing activities (241.5) (740.0) (27.5)",https://www.sec.gov/Archives/edgar/data/771497/000077149722000028/abm-20221031.htm,0000771497-22-000028,771497_2022_000077149722000028_158,771497,0.7416168847000589,documents/extracted_text/771497_2022_000077149722000028.txt,158,1104,169
+Q03,Original semantic,5,What does the company disclose about operating cash flows?,NATIONAL FUEL GAS CO,2022,0.7381370842347246,5,0.5555555555555556,0.6833626256309738,1,Contains an operating cash-flow section and explains internally generated operating cash.,"d to exceed capital expenditures in each of those years. This is expected to provide the Company with the option to consider additional growth investments, further reductions in short-term or long-term debt, and increasing the amount of cash flow returned to shareholders, either through increases to the Company’s dividend or via repurchases of common stock. These cash flow projections do not reflect the impact of acquisitions or divestitures that may arise in the future.
+OPERATING CASH FLOW
+Internally generated cash from operating activities consists of net income available for common stock, adjusted for non-cash expenses, non-cash income, gains and losses associated with investing and financing activities, and changes in operating assets and liabilities. Non-cash items include depreciation, depletion and amortization, impairment of oil and gas producing properties, deferred income taxes, the reduction of an other post-retirement regulatory liability and stock-based compensation.
+Cash provided by operating activities in the Utility and Pipeline and Storage segments may vary substantially from year to year because of the impact of rate cases.",https://www.sec.gov/Archives/edgar/data/70145/000007014522000034/nfg-20220930.htm,0000070145-22-000034,70145_2022_000007014522000034_277,70145,0.7381370842347246,documents/extracted_text/70145_2022_000007014522000034.txt,277,1159,168
+Q03,Expanded semantic,1,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",ABM INDUSTRIES INC /DE/,2021,0.764015570045399,3,0.3,0.6248108990317792,1,Directly discusses operating cash flow and the factors on which it depends.,"materials into the environment or otherwise relating to the protection of the environment, as well as laws and regulations relating to, among other things, labor, wages, and health and safety matters. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal settlements.",https://www.sec.gov/Archives/edgar/data/771497/000077149721000038/abm-20211031.htm,0000771497-21-000038,771497_2021_000077149721000038_165,771497,0.764015570045399,documents/extracted_text/771497_2021_000077149721000038.txt,165,938,142
+Q03,Expanded semantic,2,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",ABM INDUSTRIES INC /DE/,2023,0.760300458054773,5,0.5,0.6822103206383411,1,"Directly identifies operating cash-flow drivers, including revenue and collection/payment timing.","n of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal
+31
+settlements.
+
+Years Ended October 31,
+(in millions) 2023 2022 2021
+
+Net cash provided by operating activities 243.3 20.4 314.3 
+
+Net cash used in investing activities (62.1) (241.5) (740.0)",https://www.sec.gov/Archives/edgar/data/771497/000077149723000025/abm-20231031.htm,0000771497-23-000025,771497_2023_000077149723000025_151,771497,0.760300458054773,documents/extracted_text/771497_2023_000077149723000025.txt,151,939,143
+Q03,Expanded semantic,3,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",EDGEWELL PERSONAL CARE CO,2019,0.7581793253795792,2,0.2,0.5907255277657053,1,Explains how the cash-flow statement reconciles earnings to operating cash flows.,"ences or be subject to regulatory capital requirements; however, those balances are generally available without legal restrictions to fund ordinary business operations.
+Cash Flow Presentation
+The Consolidated Statements of Cash Flows are prepared using the indirect method, which reconciles Net earnings to Net cash from operating activities. The reconciliation adjustments include the removal of timing differences between the occurrence of operating receipts and payments and their recognition in Net earnings. The adjustments also remove cash flows arising from investing and financing activities, which are presented separately from operating activities. Cash flows from foreign currency transactions and operations are translated at an average exchange rate for the period. Cash flows from hedging activities are included in the same category as the items being hedged, which is primarily operating activities. Cash payments related to income taxes are classified as operating activities.",https://www.sec.gov/Archives/edgar/data/1096752/000109675219000041/epc10k93019.htm,0001096752-19-000041,1096752_2019_000109675219000041_262,1096752,0.7581793253795792,documents/extracted_text/1096752_2019_000109675219000041.txt,262,993,139
+Q03,Expanded semantic,4,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",EDGEWELL PERSONAL CARE CO,2023,0.7541826380949079,2,0.2,0.5879278466664355,1,Explains operating cash-flow presentation and the timing differences between receipts and earnings.,"inary business operations.
+Cash Flow Presentation
+The Consolidated Statements of Cash Flows are prepared using the indirect method, which reconciles Net earnings to Net cash from operating activities. The reconciliation adjustments include the removal of timing differences between the occurrence of operating receipts and payments and their recognition in Net earnings. The adjustments also remove cash flows arising from investing and financing activities, which are presented separately from operating activities. Cash flows from foreign currency transactions and operations are translated at an average exchange rate for the period. Cash flows from hedging activities are included in the same category as the items being hedged, which is primarily operating activities. Cash payments related to income taxes are classified as operating activities.",https://www.sec.gov/Archives/edgar/data/1096752/000162828023040139/epc-20230930.htm,0001628280-23-040139,1096752_2023_000162828023040139_248,1096752,0.7541826380949079,documents/extracted_text/1096752_2023_000162828023040139.txt,248,851,120
+Q03,Expanded semantic,5,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",EDGEWELL PERSONAL CARE CO,2025,0.7540170919507474,2,0.2,0.5878119643655231,1,Explains operating cash-flow presentation and related cash-flow translation/timing details.,"inary business operations.
+Cash Flow Presentation
+The Consolidated Statements of Cash Flows are prepared using the indirect method, which reconciles Net earnings to Net cash from operating activities. The reconciliation adjustments include the removal of timing differences between the occurrence of operating receipts and payments and their recognition in Net earnings. The adjustments also remove cash flows arising from investing and financing activities, which are presented separately from operating activities. Cash flows from foreign currency transactions and operations are translated at an average exchange rate for the period. Cash flows from hedging activities are included in the same category as the items being hedged, which are primarily operating activities. Cash payments related to income taxes are classified as operating activities.
+Trade Receivables
+Trade receivables are stated at their net realizable value.",https://www.sec.gov/Archives/edgar/data/1096752/000162828025052765/epc-20250930.htm,0001628280-25-052765,1096752_2025_000162828025052765_272,1096752,0.7540170919507474,documents/extracted_text/1096752_2025_000162828025052765.txt,272,930,131
+Q03,Expanded hybrid,1,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",BEAZER HOMES USA INC,2025,0.6999165973142225,10,1.0,0.7899416181199557,1,Provides operating cash-flow amounts by year and discusses working capital/liquidity drivers.,"and long-term liquidity depends primarily upon our level of net income, working capital management (cash, accounts receivable, accounts payable and other liabilities), and available credit facilities.
+Net changes in cash, cash equivalents, and restricted cash are as follows for the periods presented:
+
+in thousands 2025 2024 2023
+Net cash provided by (used in) operating activities $ 31,981 $ (137,545) $ 178,057 
+Net cash used in investing activities (19,659) (30,012) (29,670) 
+Net cash (used in) provided by financing activities (36,361) 23,878 (13,926) 
+Net (decrease) increase in cash, cash equivalents, and restricted cash $ (24,039) $ (143,679) $ 134,461 
+Operating Activities
+Net cash provided by operating activities was $32.0 million for the fiscal year ended September 30, 2025. The primary drivers of operating cash flows are typically cash earnings and changes in inventory levels, including land acquisition and development spending. Net cash provided by operating activities during the period was primarily driven by income before income taxes of $40.9 million, which included $30.4 million of non-cash charges and a decrease in inventory of $2.8 million, partially offset by a net in",https://www.sec.gov/Archives/edgar/data/915840/000091584025000075/bzh-20250930.htm,0000915840-25-000075,915840_2025_000091584025000075_180,915840,0.6999165973142225,documents/extracted_text/915840_2025_000091584025000075.txt,180,1200,179
+Q03,Expanded hybrid,2,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",BEAZER HOMES USA INC,2023,0.694308126453347,10,1.0,0.7860156885173428,1,Provides operating cash-flow figures across years and related operating-activity context.,"and long-term liquidity depends primarily upon our level of net income, working capital management (cash, accounts receivable, accounts payable and other liabilities), and available credit facilities.
+Net changes in cash, cash equivalents, and restricted cash are as follows for the periods presented:
+
+in thousands 2023 2022 2021
+Net cash provided by operating activities $ 178,057 $ 81,074 $ 31,656 
+Net cash used in investing activities (29,670) (14,709) (14,189) 
+Net cash used in financing activities (13,926) (88,680) (85,852) 
+Net increase (decrease) in cash, cash equivalents, and restricted cash $ 134,461 $ (22,315) $ (68,385) 
+Operating Activities
+Net cash provided by operating activities was $178.1 million for the fiscal year ended September 30, 2023. The primary drivers of operating cash flows are typically cash earnings and changes in inventory levels, including land acquisition and development spending. Net cash provided by operating activities during the period was primarily driven by income before income taxes of $182.5 million, which included $21.8 million of non-cash charges, partially offset by a net increase in non-inventory working capital of $11.5 million and an incr",https://www.sec.gov/Archives/edgar/data/915840/000091584023000053/bzh-20230930.htm,0000915840-23-000053,915840_2023_000091584023000053_167,915840,0.694308126453347,documents/extracted_text/915840_2023_000091584023000053.txt,167,1200,177
+Q03,Expanded hybrid,3,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",BEAZER HOMES USA INC,2018,0.6792692460202279,9,0.9,0.7454884722141595,1,Provides historical cash provided by operating activities and related liquidity context.,"; proceeds from Senior Notes, our Secured Revolving Credit Facility (the Facility), and other bank borrowings; the issuance of equity and equity-linked securities; and other external sources of funds. Our short-term and long-term liquidity depends primarily upon our level of net income, working capital management (cash, accounts receivable, accounts payable and other liabilities) and available credit facilities.Cash and cash equivalents changed as follows for the periods presented:(In thousands)2018 2017 2016Cash provided by operating activities$30,288 $95,909 $163,025Cash used in investing activities(74,148) (13,783) (12,694)Cash used in financing activities(107,501) (20,793) (197,539)Net (decrease) increase in cash and cash equivalents$(151,361) $61,333 $(47,208)Operating ActivitiesNet cash provided by operating activities was $30.3 million for the fiscal year ended September 30, 2018 compared to $95.9 million for the fiscal year ended September 30, 2017. Our primary drivers of operating cash flows are typically cash earnings and changes in inventory levels, including land and land development spending.",https://www.sec.gov/Archives/edgar/data/915840/000091584018000052/bzh-9301810kdocument.htm,0000915840-18-000052,915840_2018_000091584018000052_171,915840,0.6792692460202279,documents/extracted_text/915840_2018_000091584018000052.txt,171,1122,148
+Q03,Expanded hybrid,4,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",BEAZER HOMES USA INC,2024,0.7200501621861757,8,0.8,0.7440351135303229,1,"Provides operating cash-flow figures across years, including negative and positive amounts.","and long-term liquidity depends primarily upon our level of net income, working capital management (cash, accounts receivable, accounts payable and other liabilities), and available credit facilities.
+Net changes in cash, cash equivalents, and restricted cash are as follows for the periods presented:
+
+in thousands 2024 2023 2022
+Net cash (used in) provided by operating activities $ (137,545) $ 178,057 $ 81,074 
+Net cash used in investing activities (30,012) (29,670) (14,709) 
+Net cash provided by (used in) financing activities 23,878 (13,926) (88,680) 
+Net (decrease) increase in cash, cash equivalents, and restricted cash $ (143,679) $ 134,461 $ (22,315) 
+Operating Activities
+Net cash used in operating activities was $137.5 million for the fiscal year ended September 30, 2024. The primary drivers of operating cash flows are typically cash earnings and changes in inventory levels, including land acquisition and development spending. Net cash used in operating activities during the period was primarily driven by an increase in inventory of $282.1 million resulting from land acquisition, land development, and house construction spending to support continued growth and a net increase i",https://www.sec.gov/Archives/edgar/data/915840/000091584024000069/bzh-20240930.htm,0000915840-24-000069,915840_2024_000091584024000069_178,915840,0.7200501621861757,documents/extracted_text/915840_2024_000091584024000069.txt,178,1200,177
+Q03,Expanded hybrid,5,"Discuss cash flows from operating activities, net cash provided by operating activities, cash generated by operations, changes in working capital, accounts receivable, inventory, accounts payable, non-cash adjustments, net income to operating cash flow reconciliation, cash conversion, and factors explaining increases or decreases in operating cash flows.",JABIL INC,2024,0.7161259931832608,8,0.8,0.7412881952282825,1,"Directly explains the factors behind operating cash flow, including non-cash expenses, net income, inventory and payables.","cash provided by (used in) investing activities
+1,351 (723) (858) 
+
+Net cash used in financing activities
+(2,668) (680) (888) 
+
+Effect of exchange rate changes on cash and cash equivalents
+(2) (5) 6 
+
+Net increase (decrease) in cash and cash equivalents
+$ 397 $ 326 $ (89) 
+Operating Activities
+Net cash provided by operating activities during the fiscal year ended August 31, 2024, was primarily due to non-cash expenses and net income, a decrease in inventories and an increase in accounts payable, accrued expenses, and other liabilities. Net cash provided by operating activities was partially offset by an increase in prepaid expenses and other current assets, an increase in accounts receivable and an increase in contract assets. The decrease in inventories is primarily due to higher consumption of inventory to support sales and improved working capital management. The increase in accounts payable, accrued expenses and other liabilities is primarily due to the timing of purchases and cash payments. The increase in prepaid expenses and other current assets is primarily due to the timing of payments. The increase in accounts receivable is primarily driven by the timing of collections.",https://www.sec.gov/Archives/edgar/data/898293/000162828024043960/jbl-20240831.htm,0001628280-24-043960,898293_2024_000162828024043960_249,898293,0.7161259931832608,documents/extracted_text/898293_2024_000162828024043960.txt,249,1198,187

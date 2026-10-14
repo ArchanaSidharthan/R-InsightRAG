@@ -1,0 +1,645 @@
+
+# ============================================================
+# R-InsightRAG - Phase 9C
+# Evidence-Grounded Financial Question Answering
+# Local retrieval only - no paid API required
+# ============================================================
+
+# ------------------------------------------------------------
+# 0. Clear variables left by a previous Phase 9C run
+# ------------------------------------------------------------
+
+phase9c_old_variables <- c(
+  "question",
+  "company_filter",
+  "year_filter",
+  "qa_results",
+  "qa_answer",
+  "answer_file",
+  "evidence_file",
+  "timestamp",
+  "required_columns",
+  "missing_columns",
+  "valid_sec_url",
+  "question_lower",
+  "relevant_terms",
+  "passage_text",
+  "export_columns"
+)
+
+for (variable_name in phase9c_old_variables) {
+  if (exists(variable_name, envir = .GlobalEnv, inherits = FALSE)) {
+    rm(list = variable_name, envir = .GlobalEnv)
+  }
+}
+rm(phase9c_old_variables)
+
+# ------------------------------------------------------------
+# 1. Project paths and required-file checks
+# ------------------------------------------------------------
+
+project_root <- file.path(
+  "C:/Users/archa/OneDrive/Desktop/Projects",
+  "R-InsightRAG"
+)
+
+retrieval_script <- file.path(
+  project_root, "R", "63_build_rag_retrieval.R"
+)
+
+# Dedicated Phase 9C output directory
+output_dir <- file.path(
+  project_root, "outputs", "phase9c"
+)
+
+dir.create(
+  output_dir,
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+if (!dir.exists(project_root)) {
+  stop("Project directory not found: ", project_root)
+}
+
+if (!file.exists(retrieval_script)) {
+  stop("Retrieval script not found: ", retrieval_script)
+}
+
+cat("\n========================================\n")
+cat("R-InsightRAG - Phase 9C Financial Q&A\n")
+cat("========================================\n")
+
+# ------------------------------------------------------------
+# 2. Load the existing SEC retrieval function
+# ------------------------------------------------------------
+
+cat("\nLoading existing SEC retrieval system...\n")
+
+source(retrieval_script, local = .GlobalEnv)
+
+# IMPORTANT:
+# The Phase 9A script changes output_dir when it is sourced.
+# Restore the Phase 9C output directory immediately afterwards.
+
+output_dir <- file.path(
+  project_root, "outputs", "phase9c"
+)
+
+dir.create(
+  output_dir,
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+if (!exists("retrieve_passages", mode = "function")) {
+  stop(
+    "retrieve_passages() was not defined. ",
+    "Check R/63_build_rag_retrieval.R."
+  )
+}
+
+cat("Retrieval function loaded successfully.\n")
+cat("Phase 9C output directory: ", output_dir, "\n", sep = "")
+
+# ------------------------------------------------------------
+# 3. Collect the question and optional filters
+# ------------------------------------------------------------
+
+question <- readline(
+  "\nEnter your financial question: "
+)
+
+if (!nzchar(trimws(question))) {
+  stop("Question cannot be empty.")
+}
+
+question <- trimws(question)
+
+company_filter <- readline(
+  "Company filter (press Enter for any company): "
+)
+
+if (!nzchar(trimws(company_filter))) {
+  company_filter <- NULL
+} else {
+  company_filter <- trimws(company_filter)
+}
+
+year_filter <- readline(
+  "Fiscal year filter (press Enter for any year): "
+)
+
+if (!nzchar(trimws(year_filter))) {
+  year_filter <- NULL
+} else {
+  year_filter <- trimws(year_filter)
+  
+  if (!grepl("^[0-9]{4}$", year_filter)) {
+    stop("Fiscal year must be a four-digit year, such as 2024.")
+  }
+}
+
+# ------------------------------------------------------------
+# 4. Retrieve up to 30 candidate passages
+# ------------------------------------------------------------
+cat("\nSearching SEC evidence...\n")
+cat("Running targeted retrieval for question coverage...\n")
+
+# Search 1: Original question
+results_general <- retrieve_passages(
+  question = question,
+  top_k = 30,
+  company = company_filter,
+  fiscal_year = year_filter
+)
+
+# Search 2: Revenue-related evidence
+results_revenue <- NULL
+
+if (grepl(
+  "revenue|sales|income source|royalt|licens|collaboration",
+  question,
+  ignore.case = TRUE
+)) {
+  revenue_question <- paste(
+    "What are the company's revenue sources?",
+    "Find revenue recognition disclosures, collaboration revenue,",
+    "license fees, royalties, milestone payments, product revenue,",
+    "and related-party or partner revenue in the annual report."
+  )
+  
+  results_revenue <- retrieve_passages(
+    question = revenue_question,
+    top_k = 30,
+    company = company_filter,
+    fiscal_year = year_filter
+  )
+}
+
+# Search 3: Operating cash-flow evidence
+results_cashflow <- NULL
+
+if (grepl(
+  "cash flow|operating cash|cash used|cash generated",
+  question,
+  ignore.case = TRUE
+)) {
+  cashflow_question <- paste(
+    "What does the consolidated statement of cash flows disclose",
+    "about net cash used in or provided by operating activities?",
+    "Include net loss, non-cash adjustments, changes in operating",
+    "assets and liabilities, and comparative fiscal years."
+  )
+  
+  results_cashflow <- retrieve_passages(
+    question = cashflow_question,
+    top_k = 30,
+    company = company_filter,
+    fiscal_year = year_filter
+  )
+}
+
+# Combine the available search results
+result_list <- Filter(
+  function(x) !is.null(x) && nrow(x) > 0,
+  list(
+    results_general,
+    results_revenue,
+    results_cashflow
+  )
+)
+
+if (length(result_list) == 0) {
+  cat("\nNo passages were retrieved for this question.\n")
+  cat("Try a broader question or remove one of the filters.\n")
+  stop("Phase 9C stopped because retrieval returned no results.")
+}
+
+qa_results <- do.call(rbind, result_list)
+rownames(qa_results) <- NULL
+
+# Validate the expected columns
+required_columns <- c(
+  "company_name",
+  "fiscal_year",
+  "similarity",
+  "source_url",
+  "chunk_text"
+)
+
+missing_columns <- setdiff(
+  required_columns,
+  names(qa_results)
+)
+
+if (length(missing_columns) > 0) {
+  stop(
+    "Retrieved data is missing required columns: ",
+    paste(missing_columns, collapse = ", ")
+  )
+}
+
+# Remove duplicate passages.
+# Prefer chunk_id when available; otherwise use passage text.
+if ("chunk_id" %in% names(qa_results)) {
+  dedup_key <- as.character(qa_results$chunk_id)
+} else {
+  dedup_key <- as.character(qa_results$chunk_text)
+}
+
+keep_rows <- !duplicated(dedup_key) & !is.na(dedup_key)
+qa_results <- qa_results[keep_rows, , drop = FALSE]
+rownames(qa_results) <- NULL
+
+cat(
+  "\nCandidates after merging targeted searches:",
+  nrow(qa_results),
+  "\n"
+)
+cat("Original-question candidates:",
+    if (is.null(results_general)) 0 else nrow(results_general),
+    "\n")
+cat("Revenue-search candidates:",
+    if (is.null(results_revenue)) 0 else nrow(results_revenue),
+    "\n")
+cat("Cash-flow-search candidates:",
+    if (is.null(results_cashflow)) 0 else nrow(results_cashflow),
+    "\n")146
+
+
+
+# ------------------------------------------------------------
+# 5. Question-aware financial evidence reranking
+# ------------------------------------------------------------
+
+question_lower <- tolower(question)
+
+# Define financial evidence categories based on the question.
+question_topics <- character(0)
+
+if (grepl("revenue|sales|income source|royalt|licens|collaboration",
+          question_lower)) {
+  question_topics <- c(question_topics, "revenue")
+}
+
+if (grepl("cash flow|operating cash|cash generated",
+          question_lower)) {
+  question_topics <- c(question_topics, "cash_flow")
+}
+
+if (grepl("commitment|obligation|contract",
+          question_lower)) {
+  question_topics <- c(question_topics, "commitments")
+}
+
+if (grepl("interest rate|market risk|financial risk",
+          question_lower)) {
+  question_topics <- c(question_topics, "market_risk")
+}
+
+if (grepl("debt|financing|liquidity|borrowing",
+          question_lower)) {
+  question_topics <- c(question_topics, "debt_liquidity")
+}
+
+# Normalize passage text for literal keyword matching.
+passage_text <- tolower(
+  as.character(qa_results$chunk_text)
+)
+
+# Helper: count distinct matching terms in one passage.
+count_terms <- function(txt, terms) {
+  if (length(terms) == 0 || is.na(txt)) {
+    return(0L)
+  }
+  
+  sum(vapply(
+    unique(terms),
+    function(term) grepl(term, txt, fixed = TRUE),
+    logical(1)
+  ))
+}
+
+# Topic-specific evidence terms.
+topic_terms <- list(
+  revenue = c(
+    "revenue",
+    "collaboration revenue",
+    "licensing revenue",
+    "license revenue",
+    "royalty",
+    "royalties",
+    "product revenue",
+    "contract revenue",
+    "deferred revenue",
+    "consolidated statements of operations"
+  ),
+  
+  cash_flow = c(
+    "cash flows from operating activities",
+    "net cash used in operating activities",
+    "net cash provided by operating activities",
+    "operating activities",
+    "operating cash flow",
+    "cash generated",
+    "working capital",
+    "accounts receivable",
+    "deferred revenue"
+  ),
+  
+  commitments = c(
+    "commitments",
+    "contractual obligations",
+    "cancellable",
+    "future payments",
+    "purchase obligations",
+    "lease obligations"
+  ),
+  
+  market_risk = c(
+    "market risk",
+    "interest rate",
+    "credit risk",
+    "investment risk",
+    "marketable securities"
+  ),
+  
+  debt_liquidity = c(
+    "debt",
+    "credit facility",
+    "term loan",
+    "liquidity",
+    "cash equivalents",
+    "principal payments"
+  )
+)
+
+# Calculate evidence scores for each requested topic.
+for (topic in names(topic_terms)) {
+  score_name <- paste0(topic, "_hits")
+  
+  if (topic %in% question_topics) {
+    qa_results[[score_name]] <- vapply(
+      passage_text,
+      function(txt) count_terms(txt, topic_terms[[topic]]),
+      integer(1)
+    )
+  } else {
+    qa_results[[score_name]] <- 0L
+  }
+}
+
+# Count how many requested topics each passage supports.
+topic_score_columns <- paste0(question_topics, "_hits")
+
+if (length(topic_score_columns) > 0) {
+  qa_results$topic_coverage <- rowSums(
+    qa_results[, topic_score_columns, drop = FALSE] > 0
+  )
+} else {
+  qa_results$topic_coverage <- 0L
+}
+
+# Penalize passages dominated by irrelevant report sections.
+qa_results$irrelevance_penalty <- vapply(
+  passage_text,
+  function(txt) {
+    penalty <- 0
+    
+    if (grepl("table of contents", txt, fixed = TRUE)) {
+      penalty <- penalty + 0.04
+    }
+    
+    if (grepl("basis for opinion", txt, fixed = TRUE) &&
+        !grepl("net cash used in operating activities", txt,
+               fixed = TRUE)) {
+      penalty <- penalty + 0.05
+    }
+    
+    if (grepl("independent registered public accounting firm", txt,
+              fixed = TRUE) &&
+        !grepl("net cash used in operating activities", txt,
+               fixed = TRUE)) {
+      penalty <- penalty + 0.05
+    }
+    
+    penalty
+  },
+  numeric(1)
+)
+
+# Total topic-specific hits.
+all_topic_hit_columns <- paste0(
+  names(topic_terms),
+  "_hits"
+)
+
+qa_results$keyword_hits <- rowSums(
+  qa_results[, all_topic_hit_columns, drop = FALSE]
+)
+
+# Combined heuristic score:
+# semantic similarity + topic coverage + keyword evidence
+# - irrelevance penalty.
+#
+# These weights are initial heuristics, not calibrated probabilities.
+qa_results$rerank_score <-
+  qa_results$similarity +
+  0.04 * qa_results$topic_coverage +
+  0.005 * qa_results$keyword_hits -
+  qa_results$irrelevance_penalty
+
+# Rank the candidate passages.
+qa_results <- qa_results[
+  order(
+    qa_results$rerank_score,
+    decreasing = TRUE
+  ),
+  ,
+  drop = FALSE
+]
+
+# Keep the five highest-ranked passages.
+qa_results <- head(qa_results, 5)
+
+# Assign evidence IDs after final ranking.
+qa_results$source_id <- paste0(
+  "S",
+  seq_len(nrow(qa_results))
+)
+
+cat("\nQuestion topics detected:\n")
+print(question_topics)
+
+cat("\nReranking summary:\n")
+
+print(
+  qa_results[
+    ,
+    c(
+      "source_id",
+      "company_name",
+      "fiscal_year",
+      "similarity",
+      "keyword_hits",
+      "topic_coverage",
+      "irrelevance_penalty",
+      "rerank_score"
+    ),
+    drop = FALSE
+  ],
+  row.names = FALSE
+)
+
+
+
+
+# ------------------------------------------------------------
+# 6. Construct a transparent, evidence-only answer
+# ------------------------------------------------------------
+
+qa_answer <- c(
+  "R-InsightRAG - Evidence-Grounded Financial Q&A",
+  paste0("Question: ", question),
+  paste0(
+    "Company filter: ",
+    if (is.null(company_filter)) "All companies" else company_filter
+  ),
+  paste0(
+    "Fiscal year filter: ",
+    if (is.null(year_filter)) "All years" else year_filter
+  ),
+  "",
+  "EVIDENCE-BASED RESPONSE",
+  paste0(
+    "The system retrieved ",
+    nrow(qa_results),
+    " SEC filing passages after semantic retrieval and keyword reranking."
+  ),
+  paste(
+    "The passages below are supporting evidence, not an independently",
+    "verified financial conclusion."
+  ),
+  ""
+)
+
+for (i in seq_len(nrow(qa_results))) {
+  
+  passage <- trimws(
+    as.character(qa_results$chunk_text[i])
+  )
+  
+  qa_answer <- c(
+    qa_answer,
+    paste0(
+      "[", qa_results$source_id[i], "] ",
+      qa_results$company_name[i],
+      " | Fiscal year: ",
+      qa_results$fiscal_year[i]
+    ),
+    paste0(
+      "Cosine similarity: ",
+      sprintf("%.4f", qa_results$similarity[i])
+    ),
+    paste0(
+      "Keyword hits: ",
+      qa_results$keyword_hits[i]
+    ),
+    paste0(
+      "Reranking score: ",
+      sprintf("%.4f", qa_results$rerank_score[i])
+    ),
+    paste0(
+      "SEC filing: ",
+      qa_results$source_url[i]
+    ),
+    "",
+    "Retrieved passage:",
+    passage,
+    "",
+    "----------------------------------------",
+    ""
+  )
+}
+
+qa_answer <- c(
+  qa_answer,
+  "INTERPRETATION LIMITS",
+  "- Similarity measures semantic relevance, not truth.",
+  "- Keyword reranking is a heuristic and may not improve every query.",
+  "- A retrieved excerpt may omit important surrounding context.",
+  "- These passages do not automatically establish a complete answer.",
+  "- Absence of evidence in these passages does not prove absence of risk.",
+  "- Verify figures and statements against the original SEC filing.",
+  "- No paid LLM or generative API was used to create this response."
+)
+
+# ------------------------------------------------------------
+# 7. Save the answer and evidence
+# ------------------------------------------------------------
+
+timestamp <- format(
+  Sys.time(),
+  "%Y%m%d_%H%M%S"
+)
+
+# Reassert the intended output directory before saving
+output_dir <- file.path(
+  project_root, "outputs", "phase9c"
+)
+
+dir.create(
+  output_dir,
+  recursive = TRUE,
+  showWarnings = FALSE
+)
+
+answer_file <- file.path(
+  output_dir,
+  paste0("qa_answer_", timestamp, ".txt")
+)
+
+evidence_file <- file.path(
+  output_dir,
+  paste0("qa_evidence_", timestamp, ".csv")
+)
+
+writeLines(
+  qa_answer,
+  answer_file,
+  useBytes = TRUE
+)
+
+export_columns <- c(
+  "source_id",
+  "company_name",
+  "fiscal_year",
+  "similarity",
+  "keyword_hits",
+  "rerank_score",
+  "source_url",
+  "chunk_text"
+)
+
+write.csv(
+  qa_results[, export_columns, drop = FALSE],
+  evidence_file,
+  row.names = FALSE,
+  na = "",
+  fileEncoding = "UTF-8"
+)
+
+# ------------------------------------------------------------
+# 8. Display the response and confirm saved files
+# ------------------------------------------------------------
+
+cat("\n========================================\n")
+cat(paste(qa_answer, collapse = "\n"))
+cat("\n========================================\n")
+
+cat("\nSaved outputs:\n")
+cat("[OK] ", normalizePath(answer_file, winslash = "/"), "\n", sep = "")
+cat("[OK] ", normalizePath(evidence_file, winslash = "/"), "\n", sep = "")
+
+cat("\nPhase 9C evidence Q&A completed.\n")

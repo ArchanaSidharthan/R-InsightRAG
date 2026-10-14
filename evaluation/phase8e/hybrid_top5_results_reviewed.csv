@@ -1,0 +1,868 @@
+query_id,question,method,rank,company_name,fiscal_year,chunk_id,semantic_score,keyword_count,keyword_score,hybrid_score,relevant,review_notes,chunk_text,source_url,accession_number,company_id,similarity,source_text_path,chunk_index,character_count,word_count
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Hybrid,1,HOLOGIC INC,2025,859737_2025_000085973725000072_398,0.7209490760997229,2,1.0,0.8046643532698059,1,"Lists multiple principal company risks, including debt, competition and regulation.","are recorded in the period in which they become known. The Company bases its estimates on historical experience and various other assumptions that it believes to be reasonable under the circumstances.
+The Company is subject to a number of risks similar to those of other companies of similar size in its industry, including dependence on third-party reimbursements to support the markets of the Company’s products, early stage of development of certain products, rapid technological changes, recoverability of long-lived assets (including intangible assets and goodwill), competition, stability of world financial markets, ability to obtain regulatory approvals, changes in the regulatory environment, limited number of suppliers, sole-source suppliers, customer concentration, integration of acquisitions, substantial indebtedness, government regulations, management of international activities, protection of proprietary rights, patent, product liability and other litigation, dependence on contract manufacturers, supply chain constraints, inflation and interest rates, and dependence on key individuals.",https://www.sec.gov/Archives/edgar/data/859737/000085973725000072/holx-20250927.htm,0000859737-25-000072,859737,0.7209490760997229,documents/extracted_text/859737_2025_000085973725000072.txt,398,1107,145
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Hybrid,2,WINNEBAGO INDUSTRIES INC,2023,107687_2023_000010768723000028_61,0.6974069366395114,2,1.0,0.7881848556476578,1,Explicit risk factors and uncertainties section.,"son has over 25 years of business and human resources experience.
+Item 1A. Risk Factors.
+Described below are certain risks that we believe apply to our business and the industries in which we operate. The following risk factors should be considered carefully in addition to the other information contained in this Annual Report on Form 10-K. The risks and uncertainties highlighted represent the most significant risk factors that we believe may adversely affect our business, financial condition, results of operations, cash flows, liquidity or access to sources of financing, and, consequently, the market value of our common stock. The risks and uncertainties discussed in this Annual Report on Form 10-K are not exclusive and other risk factors that we may consider immaterial or do not anticipate may emerge as significant risks and uncertainties.
+Macroeconomic Risks
+Our business may be sensitive to economic conditions, including those that impact consumer spending.",https://www.sec.gov/Archives/edgar/data/107687/000010768723000028/wgo-20230826.htm,0000107687-23-000028,107687,0.6974069366395114,documents/extracted_text/107687_2023_000010768723000028.txt,61,973,149
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Hybrid,3,"SPECTRUM BRANDS HOLDINGS, INC.",2022,109177_2022_000010917722000034_119,0.674336163635763,2,1.0,0.772035314545034,1,"Summarizes business, indebtedness and other risks.","but are not limited to:
+•Risks related to our business operations: We participate in very competitive markets and we may not be able to compete successfully, causing us to lose market share and sales.
+•Risks related to our indebtedness and financing abilities: Our substantial indebtedness may limit our financial and operating flexibility, and we may incur additional debt, which could increase the risks associated with our substantial indebtedness.
+•Risks related to our international operations: We are subject to significant international business risks that could hurt our business and cause our results of operations to fluctuate.
+•Risks related to data privacy and intellectual property: We may not be able to adequately establish and protect our intellectual property rights, and the infringement or loss of our intellectual property rights could harm our business.
+•Risks related to litigation and regulatory compliance: We are subject to a number of claims and litigation and may be subject to future claims and litigation, any of which may adversely affect our business.",https://www.sec.gov/Archives/edgar/data/109177/000010917722000034/spb-20220930.htm,0000109177-22-000034,109177,0.674336163635763,documents/extracted_text/109177_2022_000010917722000034.txt,119,1082,165
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Hybrid,4,WINNEBAGO INDUSTRIES INC,2022,107687_2022_000010768722000024_60,0.6737890804914731,2,1.0,0.7716523563440312,1,Explicit risk factors and uncertainties section.,"odson has over 25 years of business and human resources experience.
+Item 1A. Risk Factors.
+Described below are certain risks that we believe apply to our business and the industry in which we operate. The following risk factors should be considered carefully in addition to the other information contained in this Annual Report on Form 10-K. The risks and uncertainties highlighted represent the most significant risk factors that we believe may adversely affect our business, financial condition, results of operations, cash flows, liquidity or access to sources of financing, and, consequently, the market value of our common stock. The risks and uncertainties discussed in this report are not exclusive and other risk factors that we may consider immaterial or do not anticipate may emerge as significant risks and uncertainties.
+Macroeconomic Risks
+Our business may be sensitive to economic conditions, including those that impact consumer spending.
+Companies within the RV and marine industries are subject to volatility in operating results due primarily to general economic conditions because the purchase of a RV or marine product is often viewed as a consumer discretionary purchase.",https://www.sec.gov/Archives/edgar/data/107687/000010768722000024/wgo-20220827.htm,0000107687-22-000024,107687,0.6737890804914731,documents/extracted_text/107687_2022_000010768722000024.txt,60,1192,182
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Hybrid,5,JACOBS SOLUTIONS INC.,2023,52988_2023_000005298823000084_144,0.7240071836241034,1,0.5,0.6568050285368724,1,Summarizes risks and uncertainties affecting the business.,"by unknown risks or risks that we currently think are immaterial. If any such events actually occur, our business, financial condition and results of operations could be materially adversely affected.
+Summary Risk Factors
+The following is a summary of some of the risks and uncertainties that could materially adversely affect our business, financial condition and results of operations. You should read this summary together with the more detailed description of each risk factor contained below.
+Risks Related to Our Operations
+•We engage in a highly competitive business. If we are unable to compete effectively, we could lose market share and our business and results of operations could be negatively impacted.
+•Our results of operations depend on the award of new contracts and the timing of the award of these contracts and economic conditions. Demand for our services may be impacted by continuing inflation, rising or continued high interest rates, and/or construction costs.
+•We may be unable to realize the benefits of implementing our three-year corporate strategy.
+•Project sites are inherently dangerous workplaces.",https://www.sec.gov/Archives/edgar/data/52988/000005298823000084/jec-20230929.htm,0000052988-23-000084,52988,0.7240071836241034,documents/extracted_text/52988_2023_000005298823000084.txt,144,1129,172
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Semantic,1,"BRIGHTVIEW HOLDINGS, INC.",2024,1734713_2024_000095017024126338_34,0.7388017306703546,0,0.0,0.5171612114692482,1,Direct summary of principal risk factors.,"stances, any change in assumptions, beliefs or expectations or any change in circumstances upon which any such forward-looking statements are based, except as required by law.
+
+Summary of Risk Factors
+
+The following is a summary of the principal risks that could materially adversely affect our business, financial condition, results of operations and cash flows. You should read this summary together with the more detailed description of each risk contained below.
+
+Risks Related to Our Business
+
+•
+Our industry and the markets in which we operate are highly competitive and increased competitive pressures could reduce our share of the markets we serve and adversely affect our business.
+•
+Our business success depends on our ability to preserve long-term customer relationships.
+•
+We may be adversely affected if customers reduce their outsourcing.
+•
+Due to our operations across the United States, our operations may be materially adversely affected by inconsistent practices and the operating results of individual branches may vary.
+•
+We may not successfully implement our business strategies, including achieving our growth objectives.
+•
+Future acquisitions or other strategic transactions co",https://www.sec.gov/Archives/edgar/data/1734713/000095017024126338/bv-20240930.htm,0000950170-24-126338,1734713,0.7388017306703546,documents/extracted_text/1734713_2024_000095017024126338.txt,34,1200,180
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Semantic,2,AMCON DISTRIBUTING CO,2024,928465_2024_000155837024015063_60,0.7377942939550675,0,0.0,0.5164560057685472,1,Discusses risks associated with investments and acquisitions.,"on to the potential operational risks described above, disruptions caused by a widespread public health issue could present increased reputational risk to the Company or result in legal claims or costly response measures.
+
+● We May Be Subject to Risks Associated with Equity Investments or the Acquisition of Assets or New Businesses.
+
+From time to time, one or both of the Company’s business segments may acquire assets from other businesses, all or a portion of the ownership of another business, or make an equity investment in another business through the purchase of equity or other means. The purchase of assets, of all or a portion of a business, or an equity investment in another business can bring significant risks to the Company in a number of areas including purchase price, amount of equity investment, business valuation and recording risks, customer retention risks, risks associated with the assumption of liabilities or obligations, integration risks, technology risks, risks associated with the addition of new employees such as health care costs, and a wide range of other risks and considerations. While the Company strives to minimize the risks associated with
+
+11",https://www.sec.gov/Archives/edgar/data/928465/000155837024015063/dit-20240930x10k.htm,0001558370-24-015063,928465,0.7377942939550675,documents/extracted_text/928465_2024_000155837024015063.txt,60,1186,188
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Semantic,3,JOHNSON CONTROLS INTERNATIONAL PLC,2023,833444_2023_000083344423000048_137,0.736924110514169,0,0.0,0.5158468773599182,1,Explicit Item 1A risk-factor disclosure.,"t by reference into, this Annual Report on Form 10-K.
+ITEM 1A RISK FACTORS
+Provided below is a cautionary discussion of what we believe to be the most important risk factors applicable to the Company. Discussion of these factors is incorporated by reference into and considered an integral part of Part II, Item 7, “Management’s Discussion and Analysis of Financial Conditions and Results of Operations.” The disclosure of a risk should not be interpreted to imply that such risk has not already materialized. Additional risks not currently known to the Company or that the Company currently believes are immaterial may also impair the Company’s business, financial condition, results of operations and cash flows.
+Risks Related to Our Business Operations
+Our future growth is dependent upon our ability to develop or acquire new products and technologies that achieve market acceptance with acceptable margins.
+Our future success depends on our ability to develop or acquire, manufacture and bring competitive, and increasingly complex, products and services to market quickly and cost-effectively.",https://www.sec.gov/Archives/edgar/data/833444/000083344423000048/jci-20230930.htm,0000833444-23-000048,833444,0.736924110514169,documents/extracted_text/833444_2023_000083344423000048.txt,137,1099,168
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Semantic,4,EMERSON ELECTRIC CO,2025,32604_2025_000003260425000087_82,0.7249224818970145,0,0.0,0.5074457373279101,1,Explicit risk factors and uncertainties section.,"reference.
+ITEM 1A - RISK FACTORS
+Investing in our securities involves risks. You should carefully consider, among other matters, the factors set forth below and the other information in this report. The Company’s risk factors set forth below are not the only risks facing the Company. Additional risks and uncertainties not currently known to management or that management currently deems immaterial also may materially, adversely affect the Company’s business, financial condition or operating results. We may amend or supplement the risk factors set forth below from time to time by other reports we file with the SEC.
+Business and Operational Risks
+We Operate in Businesses That Are Subject to Competitive Pressures That Could Affect Prices or Demand for Our Products
+Our businesses operate in markets that are highly competitive and potentially volatile, and we compete on the basis of product performance, quality, service and/or price across the industries and markets served. Our businesses are
+5
+largely dependent on the current and future business environment, including capital and consumer spending.",https://www.sec.gov/Archives/edgar/data/32604/000003260425000087/emr-20250930.htm,0000032604-25-000087,32604,0.7249224818970145,documents/extracted_text/32604_2025_000003260425000087.txt,82,1111,169
+Q01,"What are the principal business risks, uncertainties, and risk factors disclosed by the company?",Semantic,5,JACOBS SOLUTIONS INC.,2023,52988_2023_000005298823000084_144,0.7240071836241034,1,0.5,0.6568050285368724,1,Summarizes material risks and uncertainties.,"by unknown risks or risks that we currently think are immaterial. If any such events actually occur, our business, financial condition and results of operations could be materially adversely affected.
+Summary Risk Factors
+The following is a summary of some of the risks and uncertainties that could materially adversely affect our business, financial condition and results of operations. You should read this summary together with the more detailed description of each risk factor contained below.
+Risks Related to Our Operations
+•We engage in a highly competitive business. If we are unable to compete effectively, we could lose market share and our business and results of operations could be negatively impacted.
+•Our results of operations depend on the award of new contracts and the timing of the award of these contracts and economic conditions. Demand for our services may be impacted by continuing inflation, rising or continued high interest rates, and/or construction costs.
+•We may be unable to realize the benefits of implementing our three-year corporate strategy.
+•Project sites are inherently dangerous workplaces.",https://www.sec.gov/Archives/edgar/data/52988/000005298823000084/jec-20230929.htm,0000052988-23-000084,52988,0.7240071836241034,documents/extracted_text/52988_2023_000005298823000084.txt,144,1129,172
+Q02,What factors affected the company's revenue and sales performance?,Hybrid,1,"KNOW LABS, INC.",2019,1074828_2019_000165495419014278_116,0.6548701872221078,2,1.0,0.7584091310554755,1,"Provides revenue, cost of sales and gross-profit changes.","this subsidiary. RESULTS OF OPERATIONS The following table presents certain consolidated statement of operations information and presentation of that data as a percentage of change from year-to-year. (dollars in thousands) Years Ended September 30, 2019 2018 $ Variance % Variance Revenue $1,805 $4,303 $(2,498) -58.1% Cost of sales 1,378 3,482 (2,104) 60.4% Gross profit 427 821 (394) -48.0% Research and development expenses 1,258 570 688 -120.7% Selling, general and administrative expenses 4,182 2,509 1,673 -66.7% Operating loss (5,013) (2,258) (2,755) -122.0% Other (expense) income: Interest expense (2,945) (1,195) (1,750) -146.4% Other income (10) 25 (35) 140.0% Gain on debt settlements 356 170 186 109.4% Total other income (expense), net (2,599) (1,000) (1,599) -159.9% Loss before income taxes (7,612) (3,258) (4,354) -133.6% Income taxes - current (benefit) - - - 0.0% Net loss $(7,612) $(3,258) $(4,354) -133.6% 23 YEAR ENDED SEPTEMBER 30, 2019 COMPARED TO THE YEAR ENDED SEPTEMBER 30, 2018 Sales Net revenue for the year ended September 30, 2019 decreased $2,498,000 to $1,805,000 as compared to $4,303,000 for the year ended September 30, 2018.",https://www.sec.gov/Archives/edgar/data/1074828/000165495419014278/knwn_10-k.htm,0001654954-19-014278,1074828,0.6548701872221078,documents/extracted_text/1074828_2019_000165495419014278.txt,116,1161,175
+Q02,What factors affected the company's revenue and sales performance?,Hybrid,2,"KNOW LABS, INC.",2018,1074828_2018_000165495418014237_135,0.6409529503358609,2,1.0,0.7486670652351026,1,Explains diminishing subsidiary revenues and presents operating results.,"of the Company’s revenues. The financial results from our TransTech subsidiary have been diminishing as vendors of their products increasingly move to the Internet and direct sales to their customers. While it does provide our current revenues it is not central to our current focus as a Company. Moreover, we have written down any good will associated with its historic acquisition and we continue to monitor this subsidiary. RESULTS OF OPERATIONS The following table presents certain consolidated statement of operations information and presentation of that data as a percentage of change from year-to-year. (dollars in thousands) Years Ended September 30, 2018 2017 $ Variance % Variance Revenue $4,303 $4,874 $(571) -11.7% Cost of sales 3,482 3,966 (484) 12.2% Gross profit 821 908 (87) -9.6% Research and development expenses 570 79 491 -621.5% Selling, general and administrative expenses 2,509 3,088 (579) 18.8% Impairment of goodwill - 984 (984) 100.0% Operating loss (2,258) (3,243) 985 30.4% Other (expense) income: Interest expense (1,195) (377) (818) -217.0% Other income (expense) 25 (63) 88 139.7% (Loss) on change- derivative liability warrants - (218) 218 100.0% Gain on debt settleme",https://www.sec.gov/Archives/edgar/data/1074828/000165495418014237/knowlabs_10k-17565.htm,0001654954-18-014237,1074828,0.6409529503358609,documents/extracted_text/1074828_2018_000165495418014237.txt,135,1200,184
+Q02,What factors affected the company's revenue and sales performance?,Hybrid,3,BLUE BIRD CORP,2019,1589526_2019_000158952619000054_129,0.6238138100966377,2,1.0,0.7366696670676464,1,"Provides net sales, cost of goods sold and gross-profit trends.","1A. “Risk Factors”, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, and the consolidated financial statements and the notes thereto included in Item 8. ""Financial Statements"".in thousands, except per share data Fiscal Year 2019 2018 2017 2016 2015RESULTS OF OPERATIONS DATA Net sales $1,018,874 $1,024,976 $990,602 $932,010 $919,128Cost of goods sold 885,400 902,988 863,234 802,654 798,733Gross profit 133,474 121,988 127,368 129,356 120,395Operating expenses Selling, general and administrative expenses 89,642 86,911 67,836 98,393 81,730Operating profit 43,832 35,077 59,532 30,963 38,665Interest expense (12,879) (6,661) (7,251) (16,412) (19,078)Interest income 9 70 140 133 113Other expense, net (1,331) (1,613) (4,929) (4,857) (3,032)Loss on debt extinguishment — — (10,142) — —Income before income taxes 29,631 26,873 37,350 9,827 16,668Income tax (expense) benefit (7,573) 2,620 (11,856) (5,804) (4,370)Equity in net income of non-consolidated affiliate 2,242 1,327 3,307 2,877 2,634Net income 24,300 30,820 28,801 6,900 14,932Less: preferred stock dividends — 1,896 4,261 3,878 2,438Less: preferred stock repurchase — — 6,091 — —Net income av",https://www.sec.gov/Archives/edgar/data/1589526/000158952619000054/a10-k201993019.htm,0001589526-19-000054,1589526,0.6238138100966377,documents/extracted_text/1589526_2019_000158952619000054.txt,129,1200,162
+Q02,What factors affected the company's revenue and sales performance?,Hybrid,4,SPIRE INC,2023,1126956_2023_000143774923032284_512,0.6242799132396208,1,0.5,0.5869959392677345,1,Reports revenue by segment and consolidated operating revenue.,"the impacts of acquisition, divestiture and restructuring activities, and the largely non-cash impacts of other non-recurring or unusual items such as certain regulatory, legislative or GAAP standard-setting actions.
+
+Gas Gas 2023 Utility Marketing Midstream Other Eliminations Consolidated Revenues from external customers $2,456.6 $179.1 $29.9 $0.7 $— $2,666.3 Intersegment revenues 0.3 — 36.2 16.0 (52.5) — Total Operating Revenues 2,456.9 179.1 66.1 16.7 (52.5) 2,666.3 Depreciation and amortization expense 244.4 1.5 8.4 0.5 — 254.8 Interest expense 139.9 — 8.6 72.1 (34.9) 185.7 Income tax expense (benefit) 32.7 12.8 3.8 (10.5) — 38.8 Net economic earnings (loss) 200.5 47.6 14.1 (34.1) — 228.1 Capital expenditures 588.6 0.4 73.6 (0.1) — 662.5 
+
+Gas Gas 2022 Utility Marketing Midstream Other Eliminations Consolidated Revenues from external customers $1,945.6 $234.9 $17.4 $0.6 $— $2,198.5 Intersegment revenues 0.5 — 35.7 15.5 (51.7) — Total Operating Revenues 1,946.1 234.9 53.1 16.1 (51.7) 2,198.5 Depreciation and amortization expense 227.9 1.4 7.5 0.5 — 237.3 Interest expense 86.4 — 4.9 37.3 (8.8) 119.8 Income tax expense (benefit) 49.6 11.9 4.5 (7.1) — 58.9 Net economic earnings (l",https://www.sec.gov/Archives/edgar/data/1126956/000143774923032284/spre20230930_10k.htm,0001437749-23-032284,1126956,0.6242799132396208,documents/extracted_text/1126956_2023_000143774923032284.txt,512,1199,178
+Q02,What factors affected the company's revenue and sales performance?,Hybrid,5,MARINEMAX INC,2023,1057060_2023_000095017023064785_265,0.6231774059665582,1,0.5,0.5862241841765907,0,Focuses on earnout valuation and accounting; the excerpt does not clearly explain sales performance drivers.,"risk. We note that changes in financial projections, market participant assumptions for revenue growth and/or profitability, or market risk factors, would result in a change in the fair value of recorded earnout obligations.
+
+Recent Accounting Pronouncements
+
+See Note 3 of the Notes to Consolidated Financial Statements.
+
+Results of Operations
+
+The following table sets forth certain financial data as a percentage of revenue for the periods indicated:
+
+Fiscal Year Ended September 30,
+
+2021
+
+2022
+
+2023
+
+(Amounts in thousands)
+
+Revenue
+
+$
+
+2,063,257
+
+100.0
+
+%
+
+$
+
+2,308,098
+
+100.0
+
+%
+
+$
+
+2,394,706
+
+100.0
+
+%
+
+Cost of sales
+
+1,403,824
+
+68.0
+
+%
+
+1,502,344
+
+65.1
+
+%
+
+1,559,377
+
+65.1
+
+%
+
+Gross profit
+
+659,433
+
+32.0
+
+%
+
+805,754
+
+34.9
+
+%
+
+835,329
+
+34.9
+
+%
+
+Selling, general and administrative expenses
+
+449,974
+
+21.8
+
+%
+
+540,550
+
+23.4
+
+%
+
+634,527
+
+26.5
+
+%
+
+Income from operations
+
+209,459
+
+10.2
+
+%
+
+265,204
+
+11.5
+
+%
+
+200,802
+
+8.4
+
+%
+
+Interest expense
+
+3,665
+
+0.2
+
+%
+
+3,283
+
+0.2
+
+%
+
+53,367
+
+2.2
+
+%
+
+Income before income taxes
+
+205,794
+
+10.0
+
+%
+
+261,921
+
+11.3
+
+%
+
+147,435
+
+6.2
+
+%
+
+Income tax provision
+
+50,815
+
+2.5
+
+%
+
+63,932
+
+2.7
+
+%
+
+37,957
+
+1.6
+
+%
+
+Net income
+
+154,979
+
+7.5
+
+%
+
+197,989
+
+8.6
+
+%
+
+109,478",https://www.sec.gov/Archives/edgar/data/1057060/000095017023064785/hzo-20230930.htm,0000950170-23-064785,1057060,0.6231774059665582,documents/extracted_text/1057060_2023_000095017023064785.txt,265,1199,184
+Q02,What factors affected the company's revenue and sales performance?,Semantic,1,MSC INDUSTRIAL DIRECT CO INC,2022,1003078_2022_000100307822000127_151,0.6554502071034023,0,0.0,0.4588151449723815,1,"Discusses pricing strategies, costs, economic conditions and results of operations.","the products that the Company sells. The Company has implemented price realization strategies in response to increased costs the Company faces. We will continue to monitor the current economic conditions for the impact on our customers and markets and assess both risks and opportunities that may affect our business and operations.
+
+25
+
+Results of Operations
+
+Fiscal Year Ended September 3, 2022 Compared to the Fiscal Year Ended August 28, 2021
+
+The table below summarizes the Company’s results of operations both in dollars (in thousands) and as a percentage of net sales for the periods indicated:
+
+Fiscal Years Ended
+
+September 3, 2022
+
+August 28, 2021
+
+(53 weeks)
+
+(52 weeks)
+
+Change
+
+$
+
+%
+
+$
+
+%
+
+$
+
+%
+
+Net sales
+
+$
+
+3,691,893
+
+100.0%
+
+$
+
+3,243,224 
+
+100.0%
+
+$
+
+448,669
+
+13.8%
+
+Cost of goods sold
+
+2,133,645
+
+57.8%
+
+1,909,709 
+
+58.9%
+
+223,936
+
+11.7%
+
+Gross profit
+
+1,558,248 
+
+42.2%
+
+1,333,515 
+
+41.1%
+
+224,733 
+
+16.9%
+
+Operating expenses
+
+1,083,862 
+
+29.4%
+
+994,468 
+
+30.7%
+
+89,394 
+
+9.0%
+
+Impairment loss, net
+
+—
+
+0.0%
+
+5,886 
+
+0.2%
+
+(5,886)
+
+(100)%
+
+Restructuring and other costs
+
+15,805 
+
+0.4%
+
+31,392 
+
+1.0%
+
+(15,587)
+
+(49.7)%
+
+Gain on sale of property
+
+(10,132)
+
+(0.3)%
+
+—
+
+0.0%",https://www.sec.gov/Archives/edgar/data/1003078/000100307822000127/msm-20220903x10k.htm,0001003078-22-000127,1003078,0.6554502071034023,documents/extracted_text/1003078_2022_000100307822000127.txt,151,1190,180
+Q02,What factors affected the company's revenue and sales performance?,Semantic,2,"KNOW LABS, INC.",2019,1074828_2019_000165495419014278_116,0.6548701872221078,2,1.0,0.7584091310554755,1,"Provides revenue, cost and gross-profit changes.","this subsidiary. RESULTS OF OPERATIONS The following table presents certain consolidated statement of operations information and presentation of that data as a percentage of change from year-to-year. (dollars in thousands) Years Ended September 30, 2019 2018 $ Variance % Variance Revenue $1,805 $4,303 $(2,498) -58.1% Cost of sales 1,378 3,482 (2,104) 60.4% Gross profit 427 821 (394) -48.0% Research and development expenses 1,258 570 688 -120.7% Selling, general and administrative expenses 4,182 2,509 1,673 -66.7% Operating loss (5,013) (2,258) (2,755) -122.0% Other (expense) income: Interest expense (2,945) (1,195) (1,750) -146.4% Other income (10) 25 (35) 140.0% Gain on debt settlements 356 170 186 109.4% Total other income (expense), net (2,599) (1,000) (1,599) -159.9% Loss before income taxes (7,612) (3,258) (4,354) -133.6% Income taxes - current (benefit) - - - 0.0% Net loss $(7,612) $(3,258) $(4,354) -133.6% 23 YEAR ENDED SEPTEMBER 30, 2019 COMPARED TO THE YEAR ENDED SEPTEMBER 30, 2018 Sales Net revenue for the year ended September 30, 2019 decreased $2,498,000 to $1,805,000 as compared to $4,303,000 for the year ended September 30, 2018.",https://www.sec.gov/Archives/edgar/data/1074828/000165495419014278/knwn_10-k.htm,0001654954-19-014278,1074828,0.6548701872221078,documents/extracted_text/1074828_2019_000165495419014278.txt,116,1161,175
+Q02,What factors affected the company's revenue and sales performance?,Semantic,3,MSC INDUSTRIAL DIRECT CO INC,2024,1003078_2024_000100307824000107_163,0.6485076080839984,0,0.0,0.4539553256587988,1,Presents results of operations and net sales comparisons.,"e.
+27
+Table of Contents
+We will monitor the current economic conditions for the impact on our customers and markets and assess both risks and opportunities that may affect our business and operations.
+Results of Operations
+Fiscal Year Ended August 31, 2024 Compared to the Fiscal Year Ended September 2, 2023
+The table below summarizes the Company’s results of operations both in dollars (in thousands) and as a percentage of net sales for the periods indicated:
+
+Fiscal Years Ended 
+August 31, 2024(52 weeks) September 2, 2023(52 weeks) Change
+$ % $ % $ %
+Net sales $ 3,820,951 100.0 % $ 4,009,282 100.0 % $ (188,331) (4.7) %
+Cost of goods sold 2,248,168 58.8 % 2,366,317 59.0 % (118,149) (5.0) %
+Gross profit 1,572,783 41.2 % 1,642,965 41.0 % (70,182) (4.3) %
+Operating expenses 1,167,870 30.6 % 1,151,295 28.7 % 16,575 1.4 %
+Restructuring and other costs 14,526 0.4 % 7,937 0.2 % 6,589 83.0 %
+Income from operations 390,387 10.2 % 483,733 12.1 % (93,346) (19.3) %
+Total other expense (47,638) (1.2) % (27,577) (0.7) % (20,061) 72.7 %
+Income before provision for income taxes 342,749 9.0 % 456,156 11.4 % (113,407) (24.9) %
+Provision for income taxes 86,792 2.3 % 113,049 2.8 % (26,257) (23.2) %
+Ne",https://www.sec.gov/Archives/edgar/data/1003078/000100307824000107/msm-20240831.htm,0001003078-24-000107,1003078,0.6485076080839984,documents/extracted_text/1003078_2024_000100307824000107.txt,163,1200,209
+Q02,What factors affected the company's revenue and sales performance?,Semantic,4,WD 40 CO,2018,105132_2018_000010513218000035_66,0.6431808219113763,0,0.0,0.4502265753379633,1,Discusses factors that may influence operating results and sales growth.,"l performance could vary materially from its internal expectations and those of the market. Failure to meet or exceed these expectations could cause the market price of the Company’s stock to decline. The Company’s operating results and financial performance may be negatively influenced by a number of factors, many of which are discussed in this Item 1A “Risk Factors”. In addition, sales volume growth, whether due to acquisitions or internal growth, can place burdens on management resources and financial controls that, in turn, can have a negative impact on operating results and financial condition of the Company. To some extent, the Company plans its expense levels in anticipation of future revenues. If actual revenues fall short of these expectations, operating results may be adversely affected by reduced operating margins due to actual expense levels that are higher than might otherwise have been appropriate. ﻿ Malfunctions of the critical information systems that the Company uses for the daily operations of its business, cyberattacks and privacy breaches could adversely affect the Company’s ability to conduct business.",https://www.sec.gov/Archives/edgar/data/105132/000010513218000035/wdfc-20180831x10k.htm,0000105132-18-000035,105132,0.6431808219113763,documents/extracted_text/105132_2018_000010513218000035.txt,66,1140,174
+Q02,What factors affected the company's revenue and sales performance?,Semantic,5,MSC INDUSTRIAL DIRECT CO INC,2025,1003078_2025_000100307825000123_238,0.6430988076020866,0,0.0,0.4501691653214605,1,"Discusses revenue disaggregation by customer, industry and geography.","ity when customers prepay but the Company has not yet satisfied its performance obligations. The Company did not have material contract assets or liabilities as of August 30, 2025 and August 31, 2024.
+Disaggregation of Revenue
+The Company serves a large number of customers of various types and in diverse industries, which are subject to different economic and industry factors. The Company’s presentation of net sales by customer end-market, customer type and geography most reasonably depicts how the nature, amount, timing and uncertainty of Company revenue and cash flows are affected by economic and industry factors. The Company does not disclose net sales information by product category as it is impracticable to do so as a result of its numerous product offerings and the way its business is managed.
+51
+Table of Contents
+The following table presents the Company’s percentage of revenue by customer end-market for fiscal years 2025, 2024, and 2023:
+
+For the Fiscal Years Ended (2)",https://www.sec.gov/Archives/edgar/data/1003078/000100307825000123/msm-20250830.htm,0001003078-25-000123,1003078,0.6430988076020866,documents/extracted_text/1003078_2025_000100307825000123.txt,238,990,158
+Q03,What does the company disclose about operating cash flows?,Hybrid,1,"MUELLER WATER PRODUCTS, INC.",2025,1350593_2025_000135059325000066_189,0.7096926997611406,6,1.0,0.7967848898327984,1,Explains cash flows from operating activities as a historical liquidity source.,", respectively.
+Historically, we have funded our liquidity requirements through cash flows from operating activities, borrowings under our credit facilities, and working capital management activities. Our primary historical cash requirements have been for working capital, capital expenditures, income tax payments, and contractual obligations, which primarily consist of required long-term debt and related interest payments and commitments under non-cancellable operating lease agreements. When appropriate, the Company may utilize liquidity towards debt service requirements, including voluntary debt prepayments, as well as repurchases of common stock or other securities, based on excess cash flows. The most significant components of our operating assets and liabilities are inventories, accounts receivable, prepaid expenses and other assets, accounts payable, and other payables and accrued expenses. We closely monitor various items related to cash flow including, but not limited to, cash receipts, cash disbursements, payment terms and discounts.",https://www.sec.gov/Archives/edgar/data/1350593/000135059325000066/mwa-20250930.htm,0001350593-25-000066,1350593,0.7096926997611406,documents/extracted_text/1350593_2025_000135059325000066.txt,189,1057,140
+Q03,What does the company disclose about operating cash flows?,Hybrid,2,"ENERGIZER HOLDINGS, INC.",2019,1632790_2019_000163279019000080_236,0.6682503167255002,6,1.0,0.7677752217078501,0,"Focuses on credit-agreement acceleration and debt covenants, not operating cash flows.","other requirements of these credit agreements, the lenders may have the right to accelerate the maturity of the debt. Acceleration under one of these facilities would trigger cross defaults to other borrowings. As of September 30, 2019, the Company was, and expects to remain, in compliance with the provisions and covenants associated with its debt agreements.
+Operating Activities
+Cash flow from operating activities from continuing operations is the primary funding source for operating needs and capital investments. Cash flow from operating activities was $142.1 in fiscal 2019, $228.7 in fiscal 2018, and $197.2 in fiscal 2017.
+Cash flow from operating activities from continuing operations was $142.1 in fiscal 2019 as compared to $228.7 in the prior fiscal year. The decrease was driven by lower year over year net earnings and increased working capital.",https://www.sec.gov/Archives/edgar/data/1632790/000163279019000080/enrfy1910-k.htm,0001632790-19-000080,1632790,0.6682503167255002,documents/extracted_text/1632790_2019_000163279019000080.txt,236,862,133
+Q03,What does the company disclose about operating cash flows?,Hybrid,3,GEE GROUP INC.,2024,40570_2024_000147793224008212_168,0.6720972669896695,5,0.8333333333333334,0.7204680868927686,1,Discusses liquidity sources including revenues and collection of receivables.,"cal 2023, and other related items as explained in the preceding paragraphs.
+
+34Table of Contents
+
+(Amounts in thousands except per share data, unless otherwise stated)
+
+Liquidity and Capital Resources
+
+The primary sources of liquidity for the Company are revenues earned and collected from its clients and borrowings available under its asset-based senior secured revolving credit facility. Uses of liquidity include primarily the costs and expenses necessary to fund operations, including payment of compensation to the Company’s contract and permanent employees, employment-related expenses, operating costs and expenses, taxes and capital expenditures.
+
+The following table sets forth certain consolidated statements of cash flows data:
+
+Fiscal 2024 2023 Cash flows provided by operating activities $202 $5,890 Cash flows used in investing activities (58) (89)Cash flows used in financing activities (1,787) (2,178)
+
+As of September 30, 2024, the Company had $20,828 of cash which was a decrease of $1,643 from $22,471 as of September 30, 2023. The Company reported $202 and $5,890 in cash flow from operations for the fiscal years ended September 30, 2024 and 2023, respectively.",https://www.sec.gov/Archives/edgar/data/40570/000147793224008212/job_10k.htm,0001477932-24-008212,40570,0.6720972669896695,documents/extracted_text/40570_2024_000147793224008212.txt,168,1183,174
+Q03,What does the company disclose about operating cash flows?,Hybrid,4,DEERE & CO,2018,315189_2018_000104746918007694_257,0.7253157792191087,4,0.6666666666666666,0.707721045453376,0,"Cash-flow note focuses on cash equivalents and short-term borrowings, not operating cash-flow performance.","tents ​ ​ 6. CASH FLOW INFORMATION For purposes of the statement of consolidated cash flows, the company considers investments with purchased maturities of three months or less to be cash equivalents. Substantially all of the company's short-term borrowings, excluding the current maturities of long-term borrowings, mature or may require payment within three months or less. The equipment operations sell a significant portion of their trade receivables to financial services. These intercompany cash flows are eliminated in the consolidated cash flows. All cash flows from the changes in trade accounts and notes receivable (see Note 12) are classified as operating activities in the statement of consolidated cash flows as these receivables arise from sales to the company's customers. Cash flows from financing receivables that are related to sales to the company's customers (see Note 12) are also included in operating activities. The remaining financing receivables are related to the financing of equipment sold by independent dealers and are included in investing activities.",https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/a2236950z10-k.htm,0001047469-18-007694,315189,0.7253157792191087,documents/extracted_text/315189_2018_000104746918007694.txt,257,1084,162
+Q03,What does the company disclose about operating cash flows?,Hybrid,5,DEERE & CO,2022,315189_2022_000155837022018703_429,0.7038318844368037,4,0.6666666666666666,0.6926823191057625,0,"Cash-flow note focuses on cash equivalents and receivables, not operating cash-flow performance.","with an expected duration of one year or less are for sales to dealers and retail customers for equipment, service parts, repair services, and certain telematics services.
+
+​
+
+6. CASH FLOW INFORMATION
+
+The company considers investments with purchased maturities of three months or less to be cash equivalents. Substantially all of the company’s short-term borrowings, excluding the current maturities of finance lease obligations and long-term borrowings, mature or may require payment within three months or less.
+
+All cash flows from the changes in trade accounts and notes receivable (see Note 11) are classified as operating activities in the statements of consolidated cash flows as these receivables arise from sales to the company’s customers. Cash flows from financing receivables that are related to sales to the company’s customers (see Note 11) are also included in operating activities. The remaining financing receivables are related to the financing of equipment sold by independent dealers and are included in investing activities.",https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/de-20221030x10k.htm,0001558370-22-018703,315189,0.7038318844368037,documents/extracted_text/315189_2022_000155837022018703.txt,429,1046,157
+Q03,What does the company disclose about operating cash flows?,Semantic,1,ABM INDUSTRIES INC /DE/,2023,771497_2023_000077149723000025_151,0.7624389025494401,0,0.0,0.5337072317846081,1,Explicit cash flows discussion and management's cash-flow measures.,"n of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal
+31
+settlements.
+
+Years Ended October 31,
+(in millions) 2023 2022 2021
+
+Net cash provided by operating activities 243.3 20.4 314.3 
+
+Net cash used in investing activities (62.1) (241.5) (740.0)",https://www.sec.gov/Archives/edgar/data/771497/000077149723000025/abm-20231031.htm,0000771497-23-000025,771497,0.7624389025494401,documents/extracted_text/771497_2023_000077149723000025.txt,151,939,143
+Q03,What does the company disclose about operating cash flows?,Semantic,2,ABM INDUSTRIES INC /DE/,2021,771497_2021_000077149721000038_165,0.7455187264171536,0,0.0,0.5218631084920075,0,Excerpt focuses on environmental compliance; cash flows are only mentioned in passing.,"materials into the environment or otherwise relating to the protection of the environment, as well as laws and regulations relating to, among other things, labor, wages, and health and safety matters. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal settlements.",https://www.sec.gov/Archives/edgar/data/771497/000077149721000038/abm-20211031.htm,0000771497-21-000038,771497,0.7455187264171536,documents/extracted_text/771497_2021_000077149721000038.txt,165,938,142
+Q03,What does the company disclose about operating cash flows?,Semantic,3,ABM INDUSTRIES INC /DE/,2025,771497_2025_000077149725000031_159,0.74197995733362,0,0.0,0.5193859701335339,0,Excerpt focuses on compliance costs rather than operating cash flows.,"g other things, labor, wages, and health and safety matters, as well as laws and regulations relating to the discharge of materials into the environment or otherwise relating to the protection of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; profitability levels of our jobs; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; the actual payments of contingent consideration made in excess of the acquisition-date fair value; and the timing and amount of payments on insurance claims and legal settlements.
+
+Year Ended October 31,
+(in millions) 2025 2024 2023
+
+Net cash provided by operating activities 234.4 226.7 243.3",https://www.sec.gov/Archives/edgar/data/771497/000077149725000031/abm-20251031.htm,0000771497-25-000031,771497,0.74197995733362,documents/extracted_text/771497_2025_000077149725000031.txt,159,1197,182
+Q03,What does the company disclose about operating cash flows?,Semantic,4,ABM INDUSTRIES INC /DE/,2022,771497_2022_000077149722000028_158,0.7416168847000589,0,0.0,0.5191318192900413,1,Contains the Cash Flows section and related operating-performance discussion.,"n of the environment. Historically, the cost of complying with these laws, rules, and regulations has not had a material adverse effect on our financial position, results of operations, or cash flows.
+Cash Flows
+In addition to revenues and operating profit, our management views operating cash flows as a good indicator of financial performance, because strong operating cash flows provide opportunities for growth both organically and through acquisitions. Operating cash flows primarily depend on: revenue levels; the quality and timing of collections of accounts receivable; the timing of payments to suppliers and other vendors; the timing and amount of income tax payments; and the timing and amount of payments on insurance claims and legal settlements.
+
+Years Ended October 31,
+(in millions) 2022 2021 2020
+Net cash provided by operating activities of continuing operations $ 20.4 $ 314.3 $ 457.4 
+Net cash provided by operating activities of discontinued operations — — 0.1 
+Net cash provided by operating activities 20.4 314.3 457.5 
+
+Net cash used in investing activities (241.5) (740.0) (27.5)",https://www.sec.gov/Archives/edgar/data/771497/000077149722000028/abm-20221031.htm,0000771497-22-000028,771497,0.7416168847000589,documents/extracted_text/771497_2022_000077149722000028.txt,158,1104,169
+Q03,What does the company disclose about operating cash flows?,Semantic,5,NATIONAL FUEL GAS CO,2022,70145_2022_000007014522000034_277,0.7381370842347246,2,0.3333333333333333,0.6166959589643072,1,Discusses expected cash flow relative to capital expenditures and possible uses.,"d to exceed capital expenditures in each of those years. This is expected to provide the Company with the option to consider additional growth investments, further reductions in short-term or long-term debt, and increasing the amount of cash flow returned to shareholders, either through increases to the Company’s dividend or via repurchases of common stock. These cash flow projections do not reflect the impact of acquisitions or divestitures that may arise in the future.
+OPERATING CASH FLOW
+Internally generated cash from operating activities consists of net income available for common stock, adjusted for non-cash expenses, non-cash income, gains and losses associated with investing and financing activities, and changes in operating assets and liabilities. Non-cash items include depreciation, depletion and amortization, impairment of oil and gas producing properties, deferred income taxes, the reduction of an other post-retirement regulatory liability and stock-based compensation.
+Cash provided by operating activities in the Utility and Pipeline and Storage segments may vary substantially from year to year because of the impact of rate cases.",https://www.sec.gov/Archives/edgar/data/70145/000007014522000034/nfg-20220930.htm,0000070145-22-000034,70145,0.7381370842347246,documents/extracted_text/70145_2022_000007014522000034.txt,277,1159,168
+Q04,What are the company's major debt and liquidity risks?,Hybrid,1,JACK IN THE BOX INC /NEW/,2020,807882_2020_000080788220000018_117,0.6460304960046841,8,1.0,0.7522213472032788,1,"Discusses revolver borrowings, debt levels and debt-service risks.",", which includes $107.9 million of borrowings we drew down on our revolving credit facility during the year to provide additional security and liquidity given the uncertainty of the COVID-19 pandemic.
+This level of debt could have certain material adverse effects on the Company, including but not limited to:
+•our available cash flow in the future to fund working capital, capital expenditures, acquisitions, and general corporate or other purposes could be impaired, and our ability to obtain additional financing for such purposes is limited;
+•a substantial portion of our cash flows could be required for debt service and, as a result, might not be available for our operations or other purposes;
+•any substantial decrease in net operating cash flows or any substantial increase in expenses could make it difficult for us to meet our debt service requirements or could force us to modify our operations or sell assets;
+•our ability to operate our business and our ability to repurchase stock or pay cash dividends to our stockholders may be restricted by the financial and other covenants set forth in the Indenture.",https://www.sec.gov/Archives/edgar/data/807882/000080788220000018/jack-20200927.htm,0000807882-20-000018,807882,0.6460304960046841,documents/extracted_text/807882_2020_000080788220000018.txt,117,1120,181
+Q04,What are the company's major debt and liquidity risks?,Hybrid,2,INGLES MARKETS INC,2020,50493_2020_000005049320000018_117,0.6744065193819253,7,0.875,0.7345845635673477,1,"Directly discusses covenants, borrowings and liquidity sources.",". Under the most restrictive of these covenants, the Company would be able to incur approximately $1.47 billion of additional borrowings (including borrowings under the Line) as of September 26, 2020.
+
+The Company’s principal sources of liquidity are expected to be cash flow from operations, borrowings under the Line and long-term debt financing. The Company believes, based on its current results of operations and financial condition, that its financial resources, including cash balances, the existing Line, short- and long-term financing expected to be available to it and internally generated funds, will be sufficient to meet planned capital expenditures and working capital requirements for the foreseeable future, including any debt service requirements of additional borrowings. However, there can be no assurance that any such sources of financing will be available to the Company on acceptable terms, or at all.
+
+21",https://www.sec.gov/Archives/edgar/data/50493/000005049320000018/imkt-20200926x10k.htm,0000050493-20-000018,50493,0.6744065193819253,documents/extracted_text/50493_2020_000005049320000018.txt,117,928,139
+Q04,What are the company's major debt and liquidity risks?,Hybrid,3,GEE GROUP INC.,2019,40570_2019_000147793219007284_97,0.6599408837812584,7,0.875,0.7244586186468809,1,Discusses financial covenants and liquidity sources.,"and to the remaining scheduled principal payments. Following the Fifth Amendment, the Company has met its financial covenants, as amended, for the quarters ended June 30, 2019 and September 30, 2019. The primary sources of liquidity for the Company are revenues earned and collected from its clients for the placement of contractors and permanent employment candidates and borrowings available under the Senior Credit Agreement. Uses of liquidity include primarily the costs and expenses necessary to fund operations, including payment of compensation to the Company’s contract and permanent employees, payment of operating costs and expenses, payment of taxes, payment of interest and principal under its debt agreements, and capital expenditures. The Company experienced significant net losses in fiscal 2019 and fiscal 2018, which also have negatively impacted the Company’s ability to generate liquidity. Management believes the Company can generate adequate liquidity to meet its obligations for the foreseeable future and has taken definitive actions to improve operations, reduce costs and improve profitability and liquidity, and position the Company for future growth.",https://www.sec.gov/Archives/edgar/data/40570/000147793219007284/job_10k.htm,0001477932-19-007284,40570,0.6599408837812584,documents/extracted_text/40570_2019_000147793219007284.txt,97,1177,170
+Q04,What are the company's major debt and liquidity risks?,Hybrid,4,INGLES MARKETS INC,2022,50493_2022_000005049322000018_113,0.6507317418992982,7,0.875,0.7180122193295086,1,Discusses covenant compliance and borrowing capacity.,"s. As of September 24, 2022, the Company was in compliance with these covenants by a significant margin. Under the most restrictive of these covenants, the Company would be able to incur approximately $2.33 billion of additional borrowings (including borrowings under the Line) as of September 24, 2022.
+
+The Company’s principal sources of liquidity are expected to be cash flow from operations, borrowings under the Line and long-term debt financing. The Company believes, based on its current results of operations and financial condition, that its financial resources, including cash balances, the existing Line, short- and long-term financing expected to be available to it and internally generated funds, will be sufficient to meet planned capital expenditures and working capital requirements for the foreseeable future, including any debt service requirements of additional borrowings. However, there can be no assurance that any such sources of financing will be available to the Company on acceptable terms, or at all.",https://www.sec.gov/Archives/edgar/data/50493/000005049322000018/imkt-20220924x10k.htm,0000050493-22-000018,50493,0.6507317418992982,documents/extracted_text/50493_2022_000005049322000018.txt,113,1027,155
+Q04,What are the company's major debt and liquidity risks?,Hybrid,5,DEERE & CO,2019,315189_2019_000155837019011614_238,0.6981538763209537,6,0.75,0.7137077134246675,1,Discusses market liquidity and access to funding.,"ity of the global markets in which the company operates; the effects of, or response to, terrorism and security threats; wars and other conflicts; natural disasters; and the spread of major epidemics.
+
+Significant changes in market liquidity conditions, changes in the company’s credit ratings and any failure to comply with financial covenants in credit agreements could impact access to funding and funding costs, which could reduce the company’s earnings and cash flows. Financial market conditions could also negatively impact customer access to capital for purchases of the company’s products and customer confidence and purchase decisions, borrowing and repayment practices, and the number and size of customer loan delinquencies and defaults. A debt crisis, in Europe or elsewhere, could negatively impact currencies, global financial markets, social and political stability, funding sources and costs, asset and obligation values, customers, suppliers, demand for equipment, and company operations and results. The company’s investment management activities could be impaired by changes in the equity, bond and other financial markets, which would negatively affect earnings.",https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/de-20191103x10k.htm,0001558370-19-011614,315189,0.6981538763209537,documents/extracted_text/315189_2019_000155837019011614.txt,238,1183,169
+Q04,What are the company's major debt and liquidity risks?,Semantic,1,HOLOGIC INC,2025,859737_2025_000085973725000072_398,0.6992774231576536,2,0.25,0.5644941962103575,1,Explicitly identifies substantial indebtedness as a company risk.,"are recorded in the period in which they become known. The Company bases its estimates on historical experience and various other assumptions that it believes to be reasonable under the circumstances.
+The Company is subject to a number of risks similar to those of other companies of similar size in its industry, including dependence on third-party reimbursements to support the markets of the Company’s products, early stage of development of certain products, rapid technological changes, recoverability of long-lived assets (including intangible assets and goodwill), competition, stability of world financial markets, ability to obtain regulatory approvals, changes in the regulatory environment, limited number of suppliers, sole-source suppliers, customer concentration, integration of acquisitions, substantial indebtedness, government regulations, management of international activities, protection of proprietary rights, patent, product liability and other litigation, dependence on contract manufacturers, supply chain constraints, inflation and interest rates, and dependence on key individuals.",https://www.sec.gov/Archives/edgar/data/859737/000085973725000072/holx-20250927.htm,0000859737-25-000072,859737,0.6992774231576536,documents/extracted_text/859737_2025_000085973725000072.txt,398,1107,145
+Q04,What are the company's major debt and liquidity risks?,Semantic,2,DEERE & CO,2019,315189_2019_000155837019011614_238,0.6981538763209537,6,0.75,0.7137077134246675,1,"Discusses market liquidity, credit ratings, covenants and access to funding.","ity of the global markets in which the company operates; the effects of, or response to, terrorism and security threats; wars and other conflicts; natural disasters; and the spread of major epidemics.
+
+Significant changes in market liquidity conditions, changes in the company’s credit ratings and any failure to comply with financial covenants in credit agreements could impact access to funding and funding costs, which could reduce the company’s earnings and cash flows. Financial market conditions could also negatively impact customer access to capital for purchases of the company’s products and customer confidence and purchase decisions, borrowing and repayment practices, and the number and size of customer loan delinquencies and defaults. A debt crisis, in Europe or elsewhere, could negatively impact currencies, global financial markets, social and political stability, funding sources and costs, asset and obligation values, customers, suppliers, demand for equipment, and company operations and results. The company’s investment management activities could be impaired by changes in the equity, bond and other financial markets, which would negatively affect earnings.",https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/de-20191103x10k.htm,0001558370-19-011614,315189,0.6981538763209537,documents/extracted_text/315189_2019_000155837019011614.txt,238,1183,169
+Q04,What are the company's major debt and liquidity risks?,Semantic,3,"HILLENBRAND, INC.",2022,1417398_2022_000141739822000034_175,0.6971753070177495,2,0.25,0.5630227149124246,0,"Visible excerpt emphasizes international operational risks, not debt or liquidity.","widespread operations;
+•differing labor regulations;
+•difficulties in enforcing contract and property rights under local law;
+•difficulties in implementing restructuring actions on a timely or comprehensive basis; and
+•differing protection of intellectual property.
+Such risks may be more likely or pronounced in emerging markets, where our operations may be subject to greater uncertainty due to increased volatility associated with the developing nature of their economic, legal, and governmental systems.
+
+If we are unable to successfully manage the risks associated with expanding our global business or to adequately manage operational fluctuations, it could adversely affect our business, financial condition, or results of operations.
+9. We may incur a significant amount of debt, which could adversely affect the Company and limit our ability to respond to changes in our business or make future desirable acquisitions.
+As of September 30, 2022, our outstanding debt was $1,222.1. The amount of debt could increase if additional levels of liquidity are needed, such as the increase resulting from our acquisition of Linxis on October 6, 2022, or other changes to the Company’s portfolio, or o",https://www.sec.gov/Archives/edgar/data/1417398/000141739822000034/hi-20220930.htm,0001417398-22-000034,1417398,0.6971753070177495,documents/extracted_text/1417398_2022_000141739822000034.txt,175,1200,178
+Q04,What are the company's major debt and liquidity risks?,Semantic,4,QUALCOMM INC/DE,2021,804328_2021_000172894921000076_301,0.6969261837618143,2,0.25,0.56284832863327,0,"Visible excerpt focuses on licensing and competition, not debt or liquidity.","ied with the need to pay reasonable royalties for the use of our technologies and not welcome the success of our licensing program in enabling new, highly cost-effective competitors to their products. Accordingly, such companies, and/or governments or regulators, may continue to challenge our business model in various forums throughout the world.
+Further discussion of risks related to our business is provided in “Part I, Item 1A. Risk Factors” included in this Annual Report.
+46
+Liquidity and Capital Resources
+Our principal sources of liquidity are our existing cash, cash equivalents and marketable securities, cash generated from operations and cash provided by our debt programs. The following table presents selected financial information related to our liquidity as of and for the years ended September 26, 2021 and September 27, 2020 (in millions):
+
+September 26,2021 September 27,2020 Change
+Cash, cash equivalents and marketable securities $ 12,414 $ 11,249 $ 1,165 
+Accounts receivable, net 3,579 4,003 (424) 
+Inventories 3,228 2,598 630 
+Short-term debt 2,044 500 1,544 
+Long-term debt 13,701 15,226 (1,525) 
+Noncurrent income taxes payable 1,713 1,872 (159)",https://www.sec.gov/Archives/edgar/data/804328/000172894921000076/qcom-20210926.htm,0001728949-21-000076,804328,0.6969261837618143,documents/extracted_text/804328_2021_000172894921000076.txt,301,1173,175
+Q04,What are the company's major debt and liquidity risks?,Semantic,5,QUALCOMM INC/DE,2019,804328_2019_000172894919000072_309,0.6942403376461227,3,0.375,0.5984682363522859,1,Explicit Liquidity and Capital Resources section and sources of liquidity.,"lenge our business model in various forums throughout the world.
+Further discussion of risks related to our business is presented in “Part I, Item 1A. Risk Factors” included in this Annual Report.
+
+51
+
+Liquidity and Capital Resources
+Our principal sources of liquidity are our existing cash, cash equivalents and marketable securities, cash generated from operations and cash provided by our debt programs. The following table presents selected financial information related to our liquidity as of and for the years ended September 29, 2019 and September 30, 2018 (in millions, except percentages):
+
+2019
+
+2018
+
+$ Change
+
+% Change
+
+Cash, cash equivalents and marketable securities
+
+$
+
+12,296
+
+$
+
+12,123
+
+$
+
+173
+
+1
+
+%
+
+Accounts receivable, net
+
+2,471
+
+2,904
+
+(433
+
+)
+
+(15
+
+%)
+
+Inventories
+
+1,400
+
+1,693
+
+(293
+
+)
+
+(17
+
+%)
+
+Short-term debt
+
+2,496
+
+1,005
+
+1,491
+
+148
+
+%
+
+Long-term debt
+
+13,437
+
+15,365
+
+(1,928
+
+)
+
+(13
+
+%)
+
+Net cash provided by operating activities
+
+7,286
+
+3,908
+
+3,378
+
+86
+
+%
+
+Net cash (used) provided by investing activities
+
+(806
+
+)
+
+2,381
+
+(3,187
+
+)
+
+(134
+
+%)
+
+Net cash used by financing activities
+
+(6,386
+
+)
+
+(31,500
+
+)
+
+25,114
+
+(80",https://www.sec.gov/Archives/edgar/data/804328/000172894919000072/qcom10-k2019.htm,0001728949-19-000072,804328,0.6942403376461227,documents/extracted_text/804328_2019_000172894919000072.txt,309,1150,179
+Q05,What factors affected operating profitability and profit margins?,Hybrid,1,DEERE & CO,2022,315189_2022_000155837022018703_282,0.6256342412519305,3,1.0,0.7379439688763513,1,Discusses increased operating expenses and factors affecting profitability; interest expense itself is not operating profit.,"strative and general expenses increased mostly due to higher provision for credit losses, including higher reserves due to the economic uncertainty in Russia (see Note 4), as well as a higher merit pay increase due to inflationary conditions. Interest expense increased in 2022 due to higher average borrowings and higher average borrowing rates. Other operating expenses were lower compared to 2021 largely due to reduced depreciation of equipment on operating leases and lower retirement benefit costs. The provision for income taxes increased consistent with higher pretax income.
+
+29
+
+Table of Contents
+
+​
+
+BUSINESS SEGMENT RESULTS
+
+The following discussion relates to operating results by reportable segment. Operating profit is income before corporate expenses, certain external interest expense, certain foreign exchange gains or losses, and income taxes.
+
+For the equipment operations, higher production costs were mostly due to elevated material and inbound freight expenses. Overhead spend was also higher for the year as factories continued to experience some production inefficiencies due to supply chain challenges and clearing partially completed machines in inventory.",https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/de-20221030x10k.htm,0001558370-22-018703,315189,0.6256342412519305,documents/extracted_text/315189_2022_000155837022018703.txt,282,1183,170
+Q05,What factors affected operating profitability and profit margins?,Hybrid,2,EMERSON ELECTRIC CO,2019,32604_2019_000003260419000048_105,0.653117024515191,2,0.6666666666666666,0.6571819171606337,1,Defines operating profit and margin and explains how management monitors them.,"uring the periods presented, are provided to facilitate relevant period-to-period comparisons of sales growth by excluding those items that impact overall comparability (U.S. GAAP measure: net sales).
+Operating profit (defined as net sales less cost of sales and selling, general and administrative expenses) and operating profit margin (defined as operating profit divided by net sales) are indicative of short-term operational performance and ongoing profitability. Management closely monitors operating profit and operating profit margin of each business to evaluate past performance and actions required to improve profitability. EBIT (defined as earnings before deductions for interest expense, net and income taxes) and total segment EBIT, and EBIT margin (defined as EBIT divided by net sales) and total segment EBIT margin, are financial measures that exclude the impact of financing on the capital structure and income taxes.",https://www.sec.gov/Archives/edgar/data/32604/000003260419000048/emr-09302019x10xk.htm,0000032604-19-000048,32604,0.653117024515191,documents/extracted_text/32604_2019_000003260419000048.txt,105,934,134
+Q05,What factors affected operating profitability and profit margins?,Hybrid,3,EMERSON ELECTRIC CO,2024,32604_2024_000003260424000041_136,0.6504350624812776,2,0.6666666666666666,0.6553045437368943,1,Defines operating profit and margin and explains their use in performance comparisons.,"uring the periods presented, are provided to facilitate relevant period-to-period comparisons of sales growth by excluding those items that impact overall comparability (U.S. GAAP measure: net sales).
+Operating profit (defined as net sales less cost of sales and selling, general and administrative expenses) and operating profit margin (defined as operating profit divided by net sales) are indicative of short-term operational performance and ongoing profitability. Management closely monitors operating profit and operating profit margin of each business to evaluate past performance and actions required to improve profitability. EBIT (defined as earnings before deductions for interest expense, net, related party interest income, and income taxes) and total segment EBIT, and EBIT margin (defined as EBIT divided by net sales) and total segment EBIT margin, are financial measures that exclude the impact of financing on the capital structure and income taxes.",https://www.sec.gov/Archives/edgar/data/32604/000003260424000041/emr-20240930.htm,0000032604-24-000041,32604,0.6504350624812776,documents/extracted_text/32604_2024_000003260424000041.txt,136,966,138
+Q05,What factors affected operating profitability and profit margins?,Hybrid,4,EMERSON ELECTRIC CO,2018,32604_2018_000003260418000044_65,0.6465218129642214,2,0.6666666666666666,0.6525652690749549,1,Defines operating profit and margin and explains their use in performance comparisons.,"impact of acquisitions, divestitures and fluctuations in foreign currency exchange rates during the periods presented, are provided to facilitate relevant period-to-period comparisons of sales growth by excluding those items that impact overall comparability (U.S. GAAP measure: net sales).Operating profit (defined as net sales less cost of sales and selling, general and administrative expenses) and operating profit margin (defined as operating profit divided by net sales) are indicative of short-term operational performance and ongoing profitability. Management closely monitors operating profit and operating profit margin of each business to evaluate past performance and actions required to improve profitability. EBIT (defined as earnings before deductions for interest expense, net and income taxes) and total segment EBIT, and EBIT margin (defined as EBIT divided by net sales) and total segment EBIT margin, are commonly used financial measures that exclude the impact of financing on the capital structure and income taxes. All these measures are utilized by management to evaluate performance (U.S.",https://www.sec.gov/Archives/edgar/data/32604/000003260418000044/emr-09302018x10xk.htm,0000032604-18-000044,32604,0.6465218129642214,documents/extracted_text/32604_2018_000003260418000044.txt,65,1113,157
+Q05,What factors affected operating profitability and profit margins?,Hybrid,5,BLUE BIRD CORP,2019,1589526_2019_000158952619000054_129,0.627056809933869,2,0.6666666666666666,0.6389397669537082,1,"Provides sales, cost and gross-profit data relevant to profitability performance.","1A. “Risk Factors”, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations”, and the consolidated financial statements and the notes thereto included in Item 8. ""Financial Statements"".in thousands, except per share data Fiscal Year 2019 2018 2017 2016 2015RESULTS OF OPERATIONS DATA Net sales $1,018,874 $1,024,976 $990,602 $932,010 $919,128Cost of goods sold 885,400 902,988 863,234 802,654 798,733Gross profit 133,474 121,988 127,368 129,356 120,395Operating expenses Selling, general and administrative expenses 89,642 86,911 67,836 98,393 81,730Operating profit 43,832 35,077 59,532 30,963 38,665Interest expense (12,879) (6,661) (7,251) (16,412) (19,078)Interest income 9 70 140 133 113Other expense, net (1,331) (1,613) (4,929) (4,857) (3,032)Loss on debt extinguishment — — (10,142) — —Income before income taxes 29,631 26,873 37,350 9,827 16,668Income tax (expense) benefit (7,573) 2,620 (11,856) (5,804) (4,370)Equity in net income of non-consolidated affiliate 2,242 1,327 3,307 2,877 2,634Net income 24,300 30,820 28,801 6,900 14,932Less: preferred stock dividends — 1,896 4,261 3,878 2,438Less: preferred stock repurchase — — 6,091 — —Net income av",https://www.sec.gov/Archives/edgar/data/1589526/000158952619000054/a10-k201993019.htm,0001589526-19-000054,1589526,0.627056809933869,documents/extracted_text/1589526_2019_000158952619000054.txt,129,1200,162
+Q05,What factors affected operating profitability and profit margins?,Semantic,1,ABM INDUSTRIES INC /DE/,2024,771497_2024_000077149724000029_142,0.7053807740211121,1,0.3333333333333333,0.5937665418147784,1,Explains segment revenue and operating-profit changes.,"driven by attrition of certain engineering clients and soft commercial office market conditions, partially offset by the new clients and existing client expansions both domestically and internationally. Management reimbursement revenues for this segment totaled $281.4 million and $270.1 million during 2024 and 2023, respectively.
+Operating profit decreased by $8.6 million, or 2.7%, to $307.0 million during 2024, as compared to 2023. Operating profit margin decreased by 15 bps to 7.6% in 2024 from 7.7% in 2023. The decrease in operating profit margin was primarily driven by a change in contract mix and higher legal, bad debt, and insurance expense. The decrease was partially offset by labor efficiencies and lower amortization of intangible assets.
+
+Manufacturing & Distribution 
+Year Ended October 31, 
+($ in millions) 2024 2023 Increase
+Revenues $ 1,554.3 $ 1,526.7 $ 27.6 1.8%
+Operating profit 166.3 161.7 4.6 2.8%
+Operating profit margin 10.7 % 10.6 % 11 bps 
+M&D revenues increased by $27.6 million, or 1.8%, to $1,554.3 million during 2024, as compared to 2023. The increase was primarily attributable to the expansion of business with existing customers, partially offset by the expec",https://www.sec.gov/Archives/edgar/data/771497/000077149724000029/abm-20241031.htm,0000771497-24-000029,771497,0.7053807740211121,documents/extracted_text/771497_2024_000077149724000029.txt,142,1199,184
+Q05,What factors affected operating profitability and profit margins?,Semantic,2,HEWLETT PACKARD ENTERPRISE CO,2020,1645590_2020_000164559020000056_233,0.6952947706254692,0,0.0,0.4867063394378284,1,Customer demand and spending changes affect revenue and profitability.,"s, customer groups and geographic markets and therefore will likely be different in future periods than our historical results. Our revenue depends on the overall demand for our products and services. Delays or reductions in IT spending by our customers or potential customers could have a material adverse effect on demand for our products and services, which could result in a significant decline in revenue. In addition, revenue declines in some of our businesses may affect revenue in our other businesses as we may lose cross-selling opportunities. Overall gross margins and profitability in any given period are dependent partially on the product, service, customer and geographic mix reflected in that period's net revenue. Competition, lawsuits, investigations, increases in component and manufacturing costs that we are unable to pass on to our customers, component supply disruptions and other risks affecting our businesses may have a significant impact on our overall gross margin and profitability. Variations in fixed cost structure and gross margins across business units and product portfolios may lead to significant operating profit volatility on a quarterly or annual basis.",https://www.sec.gov/Archives/edgar/data/1645590/000164559020000056/hpe-20201031.htm,0001645590-20-000056,1645590,0.6952947706254692,documents/extracted_text/1645590_2020_000164559020000056.txt,233,1193,180
+Q05,What factors affected operating profitability and profit margins?,Semantic,3,HEWLETT PACKARD ENTERPRISE CO,2019,1645590_2019_000164559019000044_174,0.6919759754687239,0,0.0,0.4843831828281067,1,Explicitly discusses operating-profit volatility and gross margins.,"and profitability. Variations in fixed cost structure and gross margins across business units and product portfolios may lead to significant operating profit volatility on a quarterly or annual basis. In addition, newer geographic market opportunities may be relatively less profitable due to our investments associated with entering those markets and local pricing pressures, and we may have difficulty establishing and maintaining the operating infrastructure necessary to support the high growth rate associated with some of those markets. Market trends, industry shifts, competitive pressures, commoditization of products, increased component or shipping costs, regulatory impacts and other factors may result in reductions in revenue or pressure on gross margins of certain segments in a given period, which may lead to adjustments to our operations.
+
+15
+Table of Contents",https://www.sec.gov/Archives/edgar/data/1645590/000164559019000044/hpe-10312019x10k.htm,0001645590-19-000044,1645590,0.6919759754687239,documents/extracted_text/1645590_2019_000164559019000044.txt,174,877,126
+Q05,What factors affected operating profitability and profit margins?,Semantic,4,CIENA CORP,2018,936395_2018_000093639518000048_240,0.6891140599982788,0,0.0,0.4823798419987951,1,Explains technology price compression and gross-margin pressures.,"be impacted by technology-based price compression and the introduction or substitution of new platforms with improved price for performance as compared to existing solutions that carry higher margins. Gross margin can also be impacted by changes in expense for excess and obsolete inventory and warranty obligations.Service gross margin can be affected by the mix of customers and services, particularly the mix between deployment and maintenance services, geographic mix and the timing and extent of any investments in internal resources to support this business. The tables below (in thousands, except percentage data) set forth the changes in revenue, cost of goods sold and gross profit for the periods indicated: Fiscal Year 2018 %* 2017 %* Increase(decrease) %**Total revenue$3,094,286 100.0 $2,801,687 100.0 $292,599 10.4Total cost of goods sold1,779,596 57.5 1,555,901 55.5 223,695 14.4Gross profit$1,314,690 42.5 $1,245,786 44.5 $68,904 5.5_________________________________*Denotes % of total revenue**Denotes % change from 2017 to 201846Table of Contents Fiscal Year 2018 %* 2017 %* Increase(decrease) %**Product revenue$2,565,460 100.0 $2,318,581 100.0 $246,879 10.6Product cost of goods s",https://www.sec.gov/Archives/edgar/data/936395/000093639518000048/a20181031financials.htm,0000936395-18-000048,936395,0.6891140599982788,documents/extracted_text/936395_2018_000093639518000048.txt,240,1200,167
+Q05,What factors affected operating profitability and profit margins?,Semantic,5,ABM INDUSTRIES INC /DE/,2022,771497_2022_000077149722000028_140,0.6878769530372963,1,0.3333333333333333,0.5815138671261074,1,Reports operating-profit changes across periods.,"rease in pandemic-related cleaning services. Management reimbursement revenues for this segment totaled $227.8 million and $185.8 million during 2022 and 2021, respectively.
+Operating profit increased by $49.0 million, or 17.1%, to $334.9 million during 2022, as compared to 2021. Operating profit margin decreased by 184 bps to 8.2% in 2022 from 10.0% in 2021. The decrease in operating profit margin was primarily driven by an increase in direct labor and related costs due to a limited labor supply in certain non-union markets; a decrease in pandemic-related cleaning services, which have higher margins; and changes in contract mix as a result of the Able Acquisition, partially offset by lower bad debt expense. In addition, operating profit margin was negatively impacted by the amortization of intangibles acquired as part of the Able Acquisition.",https://www.sec.gov/Archives/edgar/data/771497/000077149722000028/abm-20221031.htm,0000771497-22-000028,771497,0.6878769530372963,documents/extracted_text/771497_2022_000077149722000028.txt,140,855,131
+Q06,What does the company disclose about competition in its industry?,Hybrid,1,TORO CO,2022,737758_2022_000073775822000039_134,0.6005819285347941,1,1.0,0.7204073499743558,1,Explicitly describes intense competition and impacts on margins and results.,"rience lower sales of products that generally carry higher profit margins, our financial performance, including profit margins and net earnings, have been and could continue to be negatively impacted.
+We face intense competition, which could harm our business and operating results.
+Our products are sold in highly competitive markets throughout the world and as a result, we compete with many U.S. and non-U.S. companies across our various markets, industries, and product offerings. These competitors and the degree of competition vary widely by industry, product line, end market, geographic scope and/or geographic location. The principal competitive factors in our industries and markets include product innovation; quality and reliability; pricing and sales promotion and incentive programs; product support and customer service; warranty; brand awareness; reputation; distribution, shelf space, and product placement and availability; and financing options.",https://www.sec.gov/Archives/edgar/data/737758/000073775822000039/ttc-20221031.htm,0000737758-22-000039,737758,0.6005819285347941,documents/extracted_text/737758_2022_000073775822000039.txt,134,964,134
+Q06,What does the company disclose about competition in its industry?,Hybrid,2,TORO CO,2018,737758_2018_000073775818000050_99,0.5950227992043415,1,1.0,0.716515959443039,1,Lists competitive factors and competitive pressures.,"s. We may not be able to compete effectively against competitors' actions, which could harm our business and operating results.Our products are sold in highly competitive markets throughout the world. Principal competitive factors in our markets include product innovation, quality and reliability, pricing, product support and customer service, warranty, brand awareness, reputation, distribution, product placement and shelf space, and financing options. We compete in many product lines with numerous manufacturers, some of which have substantially larger operations and financial resources than us. As a result, they may be able to adapt more quickly to new or emerging technologies and changes in customer preferences, or devote greater resources to the development, promotion, and sale of their products than we can. In addition, competition could increase if new companies enter the market, existing competitors consolidate their operations or if existing competitors expand their product lines or intensify efforts within existing product lines.",https://www.sec.gov/Archives/edgar/data/737758/000073775818000050/ttc-10312018x10k.htm,0000737758-18-000050,737758,0.5950227992043415,documents/extracted_text/737758_2018_000073775818000050.txt,99,1053,150
+Q06,What does the company disclose about competition in its industry?,Hybrid,3,TORO CO,2024,737758_2024_000073775824000087_132,0.5924527966067282,1,1.0,0.7147169576247097,1,Explicit discussion of competition and competitive factors.,"tense competition, which could harm our business and operating results.
+Our products are sold in highly competitive markets throughout the world and as a result, we compete with many U.S. and non-U.S. companies across our various markets, industries, and product offerings. These competitors and the degree of competition vary widely by industry, product line, end market, geographic scope and/or geographic location. The principal competitive factors in our industries and markets include product innovation; quality and reliability; pricing and sales promotion and incentive programs; product support and customer service; warranty; brand awareness; reputation; distribution, shelf space, and product placement and availability; and financing options. Some of our competitors have substantially larger operations and greater financial resources than us, and some have smaller operations offering various and/or more specialized capabilities to customers, and they may be able to adapt more quickly to new or emerging technologies and changes in customer preferences, or devote greater or more specialized resources to the development, promotion, and sale of their products or disruptive new product",https://www.sec.gov/Archives/edgar/data/737758/000073775824000087/ttc-20241031.htm,0000737758-24-000087,737758,0.5924527966067282,documents/extracted_text/737758_2024_000073775824000087.txt,132,1200,169
+Q06,What does the company disclose about competition in its industry?,Hybrid,4,HOLOGIC INC,2020,859737_2020_000085973720000039_158,0.5828534523043523,1,1.0,0.7079974166130465,1,Explicitly states competition risk and inability to compete successfully.,"or other obligations, our ability to obtain financing for working capital or other purposes could be adversely affected, and we may be more vulnerable to economic downturns and competitive pressures. If we fail to identify, acquire and integrate complementary businesses and products, our business, results of operations and/or financial condition could be adversely affected.
+We face intense competition from other companies and may not be able to compete successfully.
+The markets in which we sell our products are intensely competitive, subject to rapid technological change and may be significantly affected by new product introductions and other market activities of industry participants, and these competitive pressures may reduce the demand and prices for our products. Other companies may develop products that are superior to and/or less expensive than our products. Improvements in existing competitive products or the introduction of new competitive products may reduce our ability to compete for sales, particularly if those competitive products demonstrate better safety or effectiveness, clinical results, ease of use or lower costs.",https://www.sec.gov/Archives/edgar/data/859737/000085973720000039/holx-20200926.htm,0000859737-20-000039,859737,0.5828534523043523,documents/extracted_text/859737_2020_000085973720000039.txt,158,1148,167
+Q06,What does the company disclose about competition in its industry?,Hybrid,5,TORO CO,2021,737758_2021_000073775821000030_150,0.5767685631522046,1,1.0,0.7037379942065431,1,Describes competitors and factors shaping competition.,"our various markets, industries, and product offerings. These competitors and the degree of competition vary widely by industry, product line, end market, geographic scope and/or geographic location. The principal competitive factors in our industries and markets include product innovation; quality and reliability; pricing and sales promotion and incentive programs; product support and customer service; warranty; brand awareness; reputation; distribution, shelf space, and product placement and availability; and financing options. Some of our competitors have substantially larger operations and greater financial resources than us, and some have smaller operations offering various and/or more specialized capabilities to customers, and they may be able to adapt more quickly to
+18
+Table of Contents
+new or emerging technologies and changes in customer preferences, or devote greater or more specialized resources to the development, promotion, and sale of their products or disruptive new products or technologies than we can.",https://www.sec.gov/Archives/edgar/data/737758/000073775821000030/ttc-20211031.htm,0000737758-21-000030,737758,0.5767685631522046,documents/extracted_text/737758_2021_000073775821000030.txt,150,1033,144
+Q06,What does the company disclose about competition in its industry?,Semantic,1,TE CONNECTIVITY LTD.,2023,1385157_2023_000155837023018833_105,0.6408471477854021,0,0.0,0.4485930034497814,1,Direct discussion of competitors and industry competition.,"ons relating to socially responsible operations. The competition we experience across product lines from other companies ranges in size from large, diversified manufacturers to small, highly specialized manufacturers. The electronic components industry has become increasingly concentrated and globalized in recent years, and our major competitors have significant financial resources and technological capabilities. A number of these competitors compete with us primarily on price and in some instances may have the benefit of lower production costs for certain products. We cannot provide assurance that additional competitors will not enter our markets or that we will be able to compete successfully against existing or new competitors. Increased competition has and may in the future result in price reductions, reduced margins, or loss of market share, any of which could materially and adversely affect our results of operations, financial position, and cash flows.",https://www.sec.gov/Archives/edgar/data/1385157/000155837023018833/tel-20230929x10k.htm,0001558370-23-018833,1385157,0.6408471477854021,documents/extracted_text/1385157_2023_000155837023018833.txt,105,972,140
+Q06,What does the company disclose about competition in its industry?,Semantic,2,BROADCOM INC.,2023,1730168_2023_000173016823000096_177,0.6379988986293472,0,0.0,0.446599229040543,1,Explicitly explains how competition could constrain revenue growth.,"investors, a significant decline in the trading price of our common stock may occur, which may happen immediately or over time.
+Competition in our industries could prevent us from growing our revenue.
+The industries in which we operate are highly competitive and characterized by rapid technological changes, evolving industry standards, changes in customer requirements, often aggressive pricing practices and, in some cases, new delivery methods. We expect competition in these industries to continue to increase as existing competitors improve or expand their product offerings or as new competitors enter our markets.
+Some of our competitors have longer operating histories, greater name recognition, a larger installed customer base, larger technical staffs, more established relationships with vendors or suppliers, or greater manufacturing, distribution, financial, research and development, technical and marketing resources than us.",https://www.sec.gov/Archives/edgar/data/1730168/000173016823000096/avgo-20231029.htm,0001730168-23-000096,1730168,0.6379988986293472,documents/extracted_text/1730168_2023_000173016823000096.txt,177,941,131
+Q06,What does the company disclose about competition in its industry?,Semantic,3,TORO CO,2021,737758_2021_000073775821000030_110,0.6361424615221656,0,0.0,0.4452997230655158,1,Dedicated Competition section.,"to the section titled ""Impact of COVID-19"" included within Part II, Item 7, ""Management's Discussion and Analysis of Financial Condition and Results of Operations,"" of this Annual Report on Form 10-K.
+12
+Table of Contents
+Competition
+Our global business operations result in us competing with many U.S. and non-U.S. companies across our various markets, industries, and product offerings. These competitors and the degree of competition vary widely by industry, product line, end market, geographic scope and/or geographic location, including some competitors that have substantially larger operations and financial resources than we do and some that have smaller operations offering various capabilities to customers. We also experience a certain level of competition among our own brands within certain industries and end markets. Because of the diversity of our product portfolios and industries, our businesses typically have a different set of competitors in each geographic area and end market in which they participate.",https://www.sec.gov/Archives/edgar/data/737758/000073775821000030/ttc-20211031.htm,0000737758-21-000030,737758,0.6361424615221656,documents/extracted_text/737758_2021_000073775821000030.txt,110,1026,151
+Q06,What does the company disclose about competition in its industry?,Semantic,4,POWELL INDUSTRIES INC,2018,80420_2018_000008042018000036_32,0.6296516720392217,0,0.0,0.4407561704274551,1,Explains industry competitive factors and lower-cost competitors.,"er or supplier on any given project. Competition in the industry depends on a number of factors, including the number of projects available, technical ability, production capacity, location and price. Certain of our competitors may have lower cost structures and may, therefore, be able to provide their products or services at lower prices than we are able to provide. Similarly, we cannot be certain that we will be able to maintain or enhance our competitive position within our industry, maintain our customer base at current levels, increase our customer base or continue to provide technologically superior products at a competitive price. New companies may enter the markets in which we compete, or industry consolidation may occur, further increasing competition in our markets.",https://www.sec.gov/Archives/edgar/data/80420/000008042018000036/powl10-k2018.htm,0000080420-18-000036,80420,0.6296516720392217,documents/extracted_text/80420_2018_000008042018000036.txt,32,786,122
+Q06,What does the company disclose about competition in its industry?,Semantic,5,ESCO TECHNOLOGIES INC,2019,866706_2019_000110465919068679_52,0.6267346021222693,0,0.0,0.4387142214855885,1,Dedicated Competition section and competitive conditions.,"rding to a documented and controlled process assuring that purchased materials meet defined specifications. Thermoplastics represent the largest percentage of raw material spend, with purchase prices subject to fluctuation depending on petrochemical industry pricing and capacity in the plastic resin market.
+
+5
+
+Table of Contents
+
+Competition
+
+Competition in the Company’s major markets is broadly based and global in scope. Competition can be particularly intense during periods of economic slowdown, and this has been experienced in some of the Company’s markets. Although the Company is a leading supplier in several of the markets it serves, it maintains a relatively small share of the business in many of the other markets it serves. Individual competitors range in size from annual revenues of less than $1 million to billion-dollar enterprises. Because of the specialized nature of the Company’s products, its competitive position with respect to its products cannot be precisely stated. In the Company’s major served markets, competition is driven primarily by quality, technology, price and delivery performance. See also Item 1A, “Risk Factors.”",https://www.sec.gov/Archives/edgar/data/866706/000110465919068679/ese-20180930x10k30c48b.htm,0001104659-19-068679,866706,0.6267346021222693,documents/extracted_text/866706_2019_000110465919068679.txt,52,1157,171
+Q07,What risks and challenges are associated with acquisitions and integration?,Hybrid,1,"COOPER COMPANIES, INC.",2025,711404_2025_000162828025055615_122,0.7663774704220978,3,1.0,0.8364642292954685,1,"Directly lists acquisition integration, systems, revenue and impairment risks.","incurrence of debt and contingent liabilities and an increase in amortization and/or impairments of goodwill and other intangible assets, which could have a material adverse effect upon our business. Risks we could face with respect to these acquisitions and other strategic transaction include:
+•failure to successfully obtain the anticipated revenues, margins and earnings benefits;
+•difficulties in, and expenses related to, the integration of the operations, technologies, information technology and other enterprise resource planning systems, products and personnel of the acquired company and establishment of appropriate accounting controls and reporting procedures, data protection systems and other regulatory compliance procedures, including but not limited to third-party compliance and due diligence;
+•increased leverage and the risk of lack of access to available financing, including financing for the acquisition or refinancing of debt owed by us on a timely basis and on reasonable terms;
+•risks of entering markets in which we have no or limited prior experience;
+•potential loss of employees;
+•an inability to identify and consummate future acquisitions on favorable terms or at al",https://www.sec.gov/Archives/edgar/data/711404/000162828025055615/coo-20251031.htm,0001628280-25-055615,711404,0.7663774704220978,documents/extracted_text/711404_2025_000162828025055615.txt,122,1199,171
+Q07,What risks and challenges are associated with acquisitions and integration?,Hybrid,2,ANALOG DEVICES INC,2023,6281_2023_000000628123000203_129,0.7593971416839579,3,1.0,0.8315779991787704,1,Discusses financing and challenges/risks associated with acquisitions.,"e costs and risks of undertaking and consummating significant acquisitions. In order to finance a potential transaction, we may need to raise additional funds by issuing securities or borrowing money. We may not be able to obtain financing on favorable terms, and the sale of our stock may result in the dilution of our existing shareholders or the issuance of securities with rights that are superior to the rights of our common shareholders.
+Acquisitions also involve a number of challenges and risks, including:
+•diversion of management’s attention in connection with both negotiating the transaction and integrating the acquired assets and businesses;
+•difficulty or delay integrating acquired technologies, operations, systems, infrastructure and personnel with our existing businesses;
+•strain on managerial and operational resources as management oversees larger or more complex operations;
+•future funding requirements for acquired companies, including research and development costs, employee compensation and benefits, and operating expenses, which may be significant;
+•servicing significant debt that may be incurred in connection with acquisitions;
+•potential loss of key employees;
+•expo",https://www.sec.gov/Archives/edgar/data/6281/000000628123000203/adi-20231028.htm,0000006281-23-000203,6281,0.7593971416839579,documents/extracted_text/6281_2023_000000628123000203.txt,129,1200,169
+Q07,What risks and challenges are associated with acquisitions and integration?,Hybrid,3,ANALOG DEVICES INC,2018,6281_2018_000000628118000126_94,0.794029672599941,2,0.6666666666666666,0.7558207708199586,1,Discusses acquisition financing and integration risks.,"e costs and risks of undertaking and consummating significant acquisitions. In order to finance a potential transaction, we may need to raise additional funds by issuing securities or borrowing money. We may not be able to obtain financing on favorable terms, and the sale of our stock may result in the dilution of our existing shareholders or the issuance of securities with rights that are superior to the rights of our common shareholders.Acquisitions also involve a number of challenges and risks, including:•difficulty or delay integrating acquired technologies, operations and personnel with our existing businesses;•diversion of management's attention in connection with both negotiating the transaction and integrating the assets;•strain on managerial and operational resources as management tries to oversee larger or more complex operations;•the future funding requirements for acquired companies, which may be significant;•potential loss of key employees;•exposure to unforeseen liabilities or regulatory compliance issues of acquired companies; •higher than expected or unexpected costs relating to or associated with an acquisition and integration of assets;•difficulty realizing synerg",https://www.sec.gov/Archives/edgar/data/6281/000000628118000126/adi-1132018x10k.htm,0000006281-18-000126,6281,0.794029672599941,documents/extracted_text/6281_2018_000000628118000126.txt,94,1200,166
+Q07,What risks and challenges are associated with acquisitions and integration?,Hybrid,4,VERU INC.,2022,863894_2022_000086389422000017_268,0.7902082704481223,2,0.6666666666666666,0.7531457893136855,1,Discusses difficulties completing and integrating acquisitions.,"uccessfully negotiate suitable acquisitions, obtain financing for future acquisitions on satisfactory terms, obtain regulatory approval for acquisitions where required, or otherwise complete acquisitions in the future. An inability to identify or complete future acquisitions could limit our future growth. Similarly, any use of our equity or a convertible debt security in any acquisition would be dilutive to our stockholders and may affect the market price of our shares.
+
+We may experience difficulties in integrating strategic acquisitions.
+
+The integration of acquired companies and their operations into our operations involves a number of risks, including:
+
+the acquired business may experience losses that could adversely affect our profitability;
+
+unanticipated costs relating to the integration of acquired businesses may increase our expenses;
+
+possible failure to accomplish the strategic objectives for an acquisition;
+
+the loss of key personnel of the acquired business;
+
+difficulties in achieving planned cost-savings and synergies may increase our expenses or decrease our net revenues;",https://www.sec.gov/Archives/edgar/data/863894/000086389422000017/veru-20220930x10k.htm,0000863894-22-000017,863894,0.7902082704481223,documents/extracted_text/863894_2022_000086389422000017.txt,268,1108,153
+Q07,What risks and challenges are associated with acquisitions and integration?,Hybrid,5,JOHNSON CONTROLS INTERNATIONAL PLC,2023,833444_2023_000083344423000048_208,0.7830141658345761,2,0.6666666666666666,0.7481099160842032,1,"Discusses acquisition financing, timing, cost and integration risks.","n financing for acquisitions on satisfactory terms, successfully acquire identified targets or form joint ventures, or manage the timing of acquisitions with capital obligations across our businesses. Competition for acquisition opportunities may rise, thereby increasing our costs of making acquisitions or causing us to refrain from making further acquisitions.
+Acquisitions and investments may involve significant cash expenditures, debt incurrences, equity issuances, operating losses and expenses and may be dilutive to earnings. Acquisitions involve numerous other risks, including: the diversion of management attention to integration matters; difficulties in integrating operations and systems; challenges in conforming standards, controls, procedures and accounting and other policies, business cultures and compensation structures; difficulties in assimilating employees and in attracting and retaining key personnel; challenges in successfully integrating and operating businesses with different characteristics than our current core businesses; challenges in keeping existing customers and obtaining new customers; difficulties in achieving anticipated cost savings, synergies, business o",https://www.sec.gov/Archives/edgar/data/833444/000083344423000048/jci-20230930.htm,0000833444-23-000048,833444,0.7830141658345761,documents/extracted_text/833444_2023_000083344423000048.txt,208,1200,151
+Q07,What risks and challenges are associated with acquisitions and integration?,Semantic,1,DEERE & CO,2024,315189_2024_000155837024016169_201,0.8353331112145742,0,0.0,0.584733177850202,1,Directly discusses risks of acquisitions and failure to realize anticipated benefits.,"from negative economic effects or other factors.
+
+We may not realize anticipated benefits of acquisitions, joint ventures, and divestitures, or these benefits may take longer to realize than expected.
+
+From time to time, we make strategic acquisitions and divestitures and participate in joint ventures. Acquisitions and joint ventures we have entered into, or may enter into in the future, may involve significant challenges and risks, including that the acquisitions or joint ventures do not advance our business strategy, or fail to produce satisfactory returns on investment. Other risks include:
+
+● We may encounter difficulties integrating acquisitions with our operations, applying internal control processes to these acquisitions, including those related to cybersecurity, managing strategic investments, assimilating new capabilities to meet the future needs of our businesses, and/or combining business cultures;
+● We face regulatory or compliance exposure until appropriate processes and controls are put in place;
+● Integrating acquisitions is often costly and may require significant attention from management and personnel;
+● We may not realize all the anticipated benefits of acquisiti",https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/de-20241027x10k.htm,0001558370-24-016169,315189,0.8353331112145742,documents/extracted_text/315189_2024_000155837024016169.txt,201,1200,171
+Q07,What risks and challenges are associated with acquisitions and integration?,Semantic,2,"SMART GLOBAL HOLDINGS, INC.",2019,1616533_2019_000156459019041109_143,0.8341971351016035,0,0.0,0.5839379945711224,1,"Lists integration, cost, and profitability risks of acquisitions.","se our engineering workforce or enhance our technological capabilities. Any acquisitions or investments would expose us to the risks commonly encountered in acquisitions of businesses or technologies. Such risks include, among others: 27 • problems integrating the purchased operations, technologies, products or personnel; • unanticipated costs or expenses associated with an acquisition or investment, including write-offs of tangible assets as well as goodwill or other intangible assets; • negative effects on profitability resulting from an acquisition or investment; • adverse effects on existing business relationships with suppliers and customers; • risks associated with entering markets in which we have little or no prior experience and markets with complex government regulations; • loss of key employees of the acquired business; and • litigation arising from an acquired company’s operations. Problems encountered in connection with an acquisition could divert the attention of management, utilize scarce corporate resources and otherwise harm our business.",https://www.sec.gov/Archives/edgar/data/1616533/000156459019041109/sgh-10k_20190830.htm,0001564590-19-041109,1616533,0.8341971351016035,documents/extracted_text/1616533_2019_000156459019041109.txt,143,1071,150
+Q07,What risks and challenges are associated with acquisitions and integration?,Semantic,3,"SMART GLOBAL HOLDINGS, INC.",2020,1616533_2020_000156459020047291_156,0.8270696004251316,0,0.0,0.578948720297592,1,Lists integration and acquisition risks.,"se our engineering workforce or enhance our technological capabilities. Any acquisitions or investments would expose us to the risks commonly encountered in acquisitions of businesses or technologies. Such risks include, among others: • problems integrating the purchased operations, technologies, products or personnel; • unanticipated costs or expenses associated with an acquisition or investment, including write-offs of tangible assets as well as goodwill or other intangible assets; 30 • negative effects on profitability resulting from an acquisition or investment; • adverse effects on existing business relationships with suppliers and customers; • risks associated with entering markets in which we have little or no prior experience and markets with complex government regulations; • loss of key employees of the acquired business; and • litigation arising from an acquired company’s operations. Problems encountered in connection with an acquisition could divert the attention of management, utilize scarce corporate resources and otherwise harm our business.",https://www.sec.gov/Archives/edgar/data/1616533/000156459020047291/sgh-10k_20200828.htm,0001564590-20-047291,1616533,0.8270696004251316,documents/extracted_text/1616533_2020_000156459020047291.txt,156,1071,150
+Q07,What risks and challenges are associated with acquisitions and integration?,Semantic,4,GEE GROUP INC.,2018,40570_2018_000147793218006156_46,0.8268190155807368,0,0.0,0.5787733109065157,1,Explicit section on risks associated with acquisitions and joint ventures.,"area, could result in legal liability or impairment to our reputation in the marketplace. 10 Table of Contents WE COULD BE ADVERSELY AFFECTED BY RISKS ASSOCIATED WITH ACQUISITIONS AND JOINT VENTURES. We intend to expand our business through acquisitions of, or investments in joint ventures with, complementary businesses, technologies, services or products, subject to our business plans and management's ability to identify, acquire and develop suitable acquisition or investment targets in both new and existing service categories. In certain circumstances, acceptable acquisition or investment targets might not be available. Acquisitions involve a number of risks, including: (1) difficulty in integrating the operations, technologies, products and personnel of an acquired business, including consolidating redundant facilities and infrastructure; (2) potential disruption of our ongoing business and the distraction of management from our day-to-day operations; (3) difficulty entering markets in which we have limited or no prior experience and in which competitors have a stronger market position; (4) difficulty maintaining the quality of services that such acquired companies have histori",https://www.sec.gov/Archives/edgar/data/40570/000147793218006156/job_10k.htm,0001477932-18-006156,40570,0.8268190155807368,documents/extracted_text/40570_2018_000147793218006156.txt,46,1199,167
+Q07,What risks and challenges are associated with acquisitions and integration?,Semantic,5,"SMART GLOBAL HOLDINGS, INC.",2018,1616533_2018_000156459018025456_171,0.8262019476313333,0,0.0,0.5783413633419332,1,Lists integration and acquisition risks.,"se our engineering workforce or enhance our technological capabilities. Any acquisitions or investments would expose us to the risks commonly encountered in acquisitions of businesses or technologies. Such risks include, among others: • problems integrating the purchased operations, technologies, products or personnel; • unanticipated costs or expenses associated with an acquisition or investment, including write-offs of goodwill or other intangible assets; • negative effects on profitability resulting from an acquisition or investment; • adverse effects on existing business relationships with suppliers and customers; • risks associated with entering markets in which we have little or no prior experience and markets with complex government regulations; • loss of key employees of the acquired business; and • litigation arising from an acquired company’s operations. 33 Problems encountered in connection with an acquisition could divert the attention of management, utilize scarce corporate resources and otherwise harm our business.",https://www.sec.gov/Archives/edgar/data/1616533/000156459018025456/sgh-10k_20180831.htm,0001564590-18-025456,1616533,0.8262019476313333,documents/extracted_text/1616533_2018_000156459018025456.txt,171,1044,145
+Q08,How do economic conditions affect the company's business and financial performance?,Hybrid,1,"STAR GROUP, L.P.",2022,1002590_2022_000095017022026161_93,0.6177113903712442,4,1.0,0.7323979732598709,1,"Explains wholesale cost increases, margin pressure and customer attrition.","condition, results of operations, or liquidity.
+
+Increases in wholesale product costs may have adverse effects on our business, financial condition and results of operations, including the following:
+
+•
+reduced profit margins;
+•
+customer conservation or attrition due to customers converting to lower cost heating products or suppliers;
+•
+reduced liquidity as a result of higher receivables, and/or inventory balances as we must fund a portion of any increase in receivables, inventory and hedging costs from our own resources, thereby tying up funds that would otherwise be available for other purposes;
+•
+higher interest expense as a result of increased working capital borrowing to finance higher receivables and/or inventory balances;
+•
+higher bad debt expense and credit card processing costs as a result of higher selling prices; and
+•
+higher delivery and service vehicle fuel costs.
+
+15",https://www.sec.gov/Archives/edgar/data/1002590/000095017022026161/sgu-20220930.htm,0000950170-22-026161,1002590,0.6177113903712442,documents/extracted_text/1002590_2022_000095017022026161.txt,93,893,136
+Q08,How do economic conditions affect the company's business and financial performance?,Hybrid,2,"SPECTRUM BRANDS HOLDINGS, INC.",2020,109177_2020_000010917720000058_79,0.6073154038930005,4,1.0,0.7251207827251003,1,Risk summary includes general economic conditions and their effect on financial performance.,"s, suppliers, capital markets, and our financial condition, and results of operations, all of which tend to aggravate the other risks and uncertainties we face;
+•the impact of our indebtedness on our business, financial condition, and results of operations;
+•the impact of restrictions in our debt instruments on our ability to operate our business, finance our capital needs or pursue or expand business strategies;
+•any failure to comply with financial covenants and other provisions and restrictions of our debt instruments;
+•the effects of general economic conditions, including the impact of, and changes to tariffs and trade policies, inflation, recession or fears of a recession, depression or fears of a depression, labor costs and stock market volatility or monetary or fiscal policies in the countries where we do business;
+•the impact of fluctuations in commodity prices, costs or availability of raw materials or terms and conditions available from suppliers, including suppliers’ willingness to advance credit;
+•interest rate and exchange rate fluctuations;
+•the loss of, significant reduction in, or dependence upon, sales to any significant retail customer(s);
+•competitive promotional",https://www.sec.gov/Archives/edgar/data/109177/000010917720000058/spb-20200930.htm,0000109177-20-000058,109177,0.6073154038930005,documents/extracted_text/109177_2020_000010917720000058.txt,79,1200,177
+Q08,How do economic conditions affect the company's business and financial performance?,Hybrid,3,HORMEL FOODS CORP /DE/,2021,48465_2021_000004846521000067_72,0.6092530277583401,3,0.75,0.651477119430838,1,"Directly discusses economic conditions, input costs and consumer spending.","terest rates, tax rates, availability of capital, energy availability and costs (including fuel surcharges), political developments, civil unrest, and the effects of governmental initiatives to manage economic conditions. Decreases in consumer spending rates and shifts in consumer product preferences could also negatively impact the Company.
+Volatility in financial markets and the deterioration of national and global economic conditions could impact the Company’s operations as follows:
+▪The financial stability of our customers and suppliers may be compromised, which could result in additional bad debts for the Company or non-performance by suppliers.
+▪The value of our investments in debt and equity securities may decline, including most significantly the Company’s trading securities held as part of a rabbi trust to fund supplemental executive retirement plans and deferred income plans, and the Company’s assets held in pension plans.
+▪Future volatility or disruption in the capital and credit markets could impair the Company's liquidity or increase costs of borrowing.",https://www.sec.gov/Archives/edgar/data/48465/000004846521000067/hrl-20211031.htm,0000048465-21-000067,48465,0.6092530277583401,documents/extracted_text/48465_2021_000004846521000067.txt,72,1082,154
+Q08,How do economic conditions affect the company's business and financial performance?,Hybrid,4,HORMEL FOODS CORP /DE/,2018,48465_2018_000004846518000046_28,0.6946270115885234,2,0.5,0.6362389081119663,1,Direct discussion of economic deterioration and impacts on business/results.,"revenues could decrease, costs of doing business could increase, and the Company’s operating results could be adversely affected.Deterioration of economic conditions could harm the Company’s business. The Company's business may be adversely affected by changes in national or global economic conditions, including inflation, interest rates, availability of capital, energy availability and costs (including fuel surcharges), and the effects of governmental initiatives to manage economic conditions. Decreases in consumer spending rates and shifts in consumer product preferences could also negatively impact the Company.Volatility in financial markets and the deterioration of national and global economic conditions could impact the Company’s operations as follows:▪The financial stability of our customers and suppliers may be compromised, which could result in additional bad debts for the Company or non-performance by suppliers; and▪The value of our investments in debt and equity securities may decline, including most significantly the Company’s trading securities held as part of a rabbi trust to fund supplemental executive retirement plans and deferred income plans, and the Company’s asse",https://www.sec.gov/Archives/edgar/data/48465/000004846518000046/hormel_2018x10k.htm,0000048465-18-000046,48465,0.6946270115885234,documents/extracted_text/48465_2018_000004846518000046.txt,28,1200,165
+Q08,How do economic conditions affect the company's business and financial performance?,Hybrid,5,HORMEL FOODS CORP /DE/,2019,48465_2019_000004846519000057_66,0.6763009144140211,2,0.5,0.6234106400898147,1,Direct discussion of economic conditions and cost/consumer impacts.,"c conditions could harm the Company’s business. The Company's business may be adversely affected by changes in national or global economic conditions, including inflation, interest rates, availability of capital, energy availability and costs (including fuel surcharges), and the effects of governmental initiatives to manage economic conditions. Decreases in consumer spending rates and shifts in consumer product preferences could also negatively impact the Company.
+Volatility in financial markets and the deterioration of national and global economic conditions could impact the Company’s operations as follows:
+
+▪
+
+The financial stability of our customers and suppliers may be compromised, which could result in additional bad debts for the Company or non-performance by suppliers; and
+
+▪",https://www.sec.gov/Archives/edgar/data/48465/000004846519000057/hormel201910k.htm,0000048465-19-000057,48465,0.6763009144140211,documents/extracted_text/48465_2019_000004846519000057.txt,66,793,111
+Q08,How do economic conditions affect the company's business and financial performance?,Semantic,1,HORMEL FOODS CORP /DE/,2018,48465_2018_000004846518000046_28,0.6946270115885234,2,0.5,0.6362389081119663,1,"Directly discusses economic deterioration, inflation, interest rates and consumer spending.","revenues could decrease, costs of doing business could increase, and the Company’s operating results could be adversely affected.Deterioration of economic conditions could harm the Company’s business. The Company's business may be adversely affected by changes in national or global economic conditions, including inflation, interest rates, availability of capital, energy availability and costs (including fuel surcharges), and the effects of governmental initiatives to manage economic conditions. Decreases in consumer spending rates and shifts in consumer product preferences could also negatively impact the Company.Volatility in financial markets and the deterioration of national and global economic conditions could impact the Company’s operations as follows:▪The financial stability of our customers and suppliers may be compromised, which could result in additional bad debts for the Company or non-performance by suppliers; and▪The value of our investments in debt and equity securities may decline, including most significantly the Company’s trading securities held as part of a rabbi trust to fund supplemental executive retirement plans and deferred income plans, and the Company’s asse",https://www.sec.gov/Archives/edgar/data/48465/000004846518000046/hormel_2018x10k.htm,0000048465-18-000046,48465,0.6946270115885234,documents/extracted_text/48465_2018_000004846518000046.txt,28,1200,165
+Q08,How do economic conditions affect the company's business and financial performance?,Semantic,2,APPLE INC,2018,320193_2018_000032019318000145_45,0.6824315410713055,0,0.0,0.4777020787499138,0,General risk language; excerpt does not identify specific economic conditions.,"could, directly or indirectly, cause the Company’s actual financial condition and operating results to vary materially from past, or from anticipated future, financial condition and operating results. Any of these factors, in whole or in part, could materially and adversely affect the Company’s business, financial condition, operating results and stock price.Because of the following factors, as well as other factors affecting the Company’s financial condition and operating results, past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods.Global and regional economic conditions could materially adversely affect the Company’s business, results of operations, financial condition and growth.The Company has international operations with sales outside the U.S. representing a majority of the Company’s total net sales. In addition, a majority of the Company’s supply chain, and its manufacturing and assembly activities, are located outside the U.S.",https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm,0000320193-18-000145,320193,0.6824315410713055,documents/extracted_text/320193_2018_000032019318000145.txt,45,1095,154
+Q08,How do economic conditions affect the company's business and financial performance?,Semantic,3,DEERE JOHN CAPITAL CORP,2018,27673_2018_000155837018009728_101,0.6777380200125773,1,0.25,0.549416614008804,1,"Discusses governmental trade, banking, monetary and fiscal policies affecting operations and costs.","g statements herein that relate to future events, expectations, and trends involve factors that are subject to change, and risks and uncertainties that could cause actual results to differ materially. Factors that could materially affect the Company’s operations, access to capital, expenses, and results include changes in, uncertainty surrounding, and the impact of governmental trade, banking, monetary, and fiscal policies, including financial regulatory reform and its effects on the consumer finance industry, derivatives, funding costs, and other areas. Actions by central banks, financial, and securities regulators may affect the costs and expenses of financing the Company and the financing rates it is able to offer. The Company’s business is affected by general economic conditions in the global markets in which the Company operates because deteriorating economic conditions and political instability can result in decreased customer confidence, lower demand for equipment, higher credit losses, and greater currency risk.",https://www.sec.gov/Archives/edgar/data/27673/000155837018009728/jdcc-20181028x10k.htm,0001558370-18-009728,27673,0.6777380200125773,documents/extracted_text/27673_2018_000155837018009728.txt,101,1035,147
+Q08,How do economic conditions affect the company's business and financial performance?,Semantic,4,APPLE INC,2019,320193_2019_000032019319000119_47,0.6772569518305629,0,0.0,0.474079866281394,0,General risk-factor introduction without a specific economic driver in the excerpt.,"but not limited to those described below, any one or more of which could, directly or indirectly, cause the Company’s actual financial condition and operating results to vary materially from past, or from anticipated future, financial condition and operating results. Any of these factors, in whole or in part, could materially and adversely affect the Company’s business, financial condition, operating results and stock price.
+Because of the following factors, as well as other factors affecting the Company’s financial condition and operating results, past financial performance should not be considered to be a reliable indicator of future performance, and investors should not use historical trends to anticipate results or trends in future periods.
+Global and regional economic conditions could materially adversely affect the Company’s business, results of operations, financial condition and growth.
+The Company has international operations with sales outside the U.S. representing a majority of the Company’s total net sales. In addition, a majority of the Company’s supply chain, and its manufacturing and assembly activities, are located outside the U.S.",https://www.sec.gov/Archives/edgar/data/320193/000032019319000119/a10-k20199282019.htm,0000320193-19-000119,320193,0.6772569518305629,documents/extracted_text/320193_2019_000032019319000119.txt,47,1165,170
+Q08,How do economic conditions affect the company's business and financial performance?,Semantic,5,HORMEL FOODS CORP /DE/,2019,48465_2019_000004846519000057_66,0.6763009144140211,2,0.5,0.6234106400898147,1,"Directly discusses economic conditions, inflation, capital availability and consumer spending.","c conditions could harm the Company’s business. The Company's business may be adversely affected by changes in national or global economic conditions, including inflation, interest rates, availability of capital, energy availability and costs (including fuel surcharges), and the effects of governmental initiatives to manage economic conditions. Decreases in consumer spending rates and shifts in consumer product preferences could also negatively impact the Company.
+Volatility in financial markets and the deterioration of national and global economic conditions could impact the Company’s operations as follows:
+
+▪
+
+The financial stability of our customers and suppliers may be compromised, which could result in additional bad debts for the Company or non-performance by suppliers; and
+
+▪",https://www.sec.gov/Archives/edgar/data/48465/000004846519000057/hormel201910k.htm,0000048465-19-000057,48465,0.6763009144140211,documents/extracted_text/48465_2019_000004846519000057.txt,66,793,111

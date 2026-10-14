@@ -1,0 +1,193 @@
+R-InsightRAG - Evidence-Grounded Financial Q&A
+Question: What were Arrowhead Pharmaceuticals’ main revenue sources, and what did its FY2024 financial statements disclose about operating cash flow?
+Company filter: Arrowhead
+Fiscal year filter: 2024
+
+EVIDENCE-BASED RESPONSE
+The system retrieved 5 SEC filing passages after semantic retrieval and keyword reranking.
+The passages below are supporting evidence, not an independently verified financial conclusion.
+
+[S1] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.7114
+Keyword hits: 8
+Reranking score: 0.8314
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+523) $ 5,619 $ 191,063 
+The accompanying notes are an integral part of these consolidated financial statements.
+F-8
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Statements of Cash Flows
+(in thousands)
+
+Year Ended September 30,
+2024 2023 2022
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+Net loss $ (609,693) $ (209,275) $ (176,494) 
+Adjustments to reconcile net loss to net cash flow from operating activities: 
+Stock-based compensation 73,968 78,130 120,893 
+Depreciation and amortization 18,595 12,493 10,421 
+(Accretion) Amortization of note premiums/discounts (3,244) (2,017) 2,910 
+Non-cash interest expense on liability related to the sale of future royalties 23,035 18,326 — 
+Non-cash interest expense on credit facility 9,317 — — 
+
+Realized loss on investments 80 — 4,432 
+Changes in operating assets and liabilities: 
+Accounts receivable — 1,410 8,845 
+Prepaid expenses and other current assets (1,664) 11,603 (19,291) 
+Accounts payable (5,536) 32,998 (6,589) 
+Accrued expenses 32,117 (14,965) 17,750 
+Deferred revenue (866) (129,183) (112,501) 
+Operating lease, net 2,240 46,590 13,428 
+Other (1,200) — 65 
+Net cash used in operating activities (462,851) (153,890) (136,131)
+
+----------------------------------------
+
+[S2] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.7466
+Keyword hits: 0
+Reranking score: 0.7466
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+253,053 65,186 
+
+Net (decrease) increase in cash, cash equivalents and restricted cash (12,403) 3,008 (76,362) 
+
+Effect of exchange rate on cash, cash equivalents and restricted cash 4,197 (122) (67) 
+
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH: 
+BEGINNING OF PERIOD 110,891 108,005 184,434 
+END OF PERIOD $ 102,685 $ 110,891 $ 108,005 
+
+Supplementary disclosure of cash flows: 
+Income Taxes Paid $ (3,744) $ — $ (2) 
+
+Supplementary disclosure of non-cash investing activities: 
+Capital expenditures included in accounts payable and accrued expenses $ 4,206 $ 14,044 $ 17,578 
+
+Supplementary disclosure of non-cash financing activities:
+
+Debt issuance costs included in accrued expenses $ 5,000 $ — $ — 
+The accompanying notes are an integral part of these consolidated financial statements.
+F-9
+Arrowhead Pharmaceuticals, Inc.
+Notes to Consolidated Financial Statements
+NOTE 1. ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+General
+Arrowhead Pharmaceuticals, Inc. and its subsidiaries (referred to herein collectively as the “Company”) are primarily engaged in developing medicines that treat intractable diseases by silencing the genes that cause them. Using a broad portfolio of RNA chemistries
+
+----------------------------------------
+
+[S3] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.6619
+Keyword hits: 2
+Reranking score: 0.7119
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+of future royalties 341,361 268,326 
+Credit facility 393,183 — 
+Total long-term liabilities 845,571 372,934 
+Commitments and contingencies (Note 7) 
+Noncontrolling interest and stockholders' equity: 
+
+Common stock, $0.001 par value:
+Authorized 290,000 shares; issued and outstanding 124,376 and 107,312 shares
+217 200 
+Additional paid-in capital 1,806,000 1,300,395 
+Accumulated other comprehensive income (loss) 4,750 (3,222) 
+Accumulated deficit (1,625,523) (1,026,030) 
+Total Arrowhead Pharmaceuticals, Inc. stockholders' equity 185,444 271,343 
+Noncontrolling interest 5,619 15,819 
+Total noncontrolling interest and stockholders' equity 191,063 287,162 
+Total Liabilities, Noncontrolling Interest and Stockholders' Equity $ 1,139,802 $ 765,552 
+The accompanying notes are an integral part of these consolidated financial statements.
+F-6
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Statements of Operations and Comprehensive Loss
+(in thousands, except per share amounts)
+
+----------------------------------------
+
+[S4] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.7023
+Keyword hits: 0
+Reranking score: 0.7023
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Rose, Snyder & Jacobs LLP
+We have served as the Company’s auditor from 2004 to 2023.
+Encino, California
+November 29, 2023
+F-5
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Balance Sheets
+(in thousands, except per share amounts)
+
+September 30,
+2024 2023
+ASSETS 
+Current assets: 
+Cash, cash equivalents and restricted cash $ 102,685 $ 110,891 
+Available-for-sale securities, at fair value 578,276 292,735 
+
+Prepaid expenses 9,537 8,813 
+Other current assets 4,973 4,033 
+Total current assets 695,471 416,472 
+Property, plant and equipment, net 386,032 290,262 
+Intangible assets, net 8,562 10,262 
+Right-of-use assets 45,255 45,297 
+Other assets 4,482 3,259 
+Total Assets $ 1,139,802 $ 765,552
+
+----------------------------------------
+
+[S5] ARROWHEAD PHARMACEUTICALS, INC. | Fiscal year: 2024
+Cosine similarity: 0.6325
+Keyword hits: 2
+Reranking score: 0.6825
+SEC filing: https://www.sec.gov/Archives/edgar/data/879407/000162828024049277/arwr-20240930.htm
+
+Retrieved passage:
+e an integral part of these consolidated financial statements.
+F-6
+Arrowhead Pharmaceuticals, Inc.
+Consolidated Statements of Operations and Comprehensive Loss
+(in thousands, except per share amounts)
+
+Year Ended September 30,
+2024 2023 2022
+Revenue $ 3,551 $ 240,735 $ 243,231 
+Operating expenses: 
+Research and development 505,870 353,188 297,307 
+General and administrative 98,761 92,549 124,431 
+Total operating expenses 604,631 445,737 421,738 
+Operating loss (601,080) (205,002) (178,507) 
+
+Other income (expense): 
+Interest income 22,720 15,299 5,033 
+Interest expense (32,352) (18,326) — 
+Other, net (1,748) 1,538 765 
+Total other (expense) income (11,380) (1,489) 5,798 
+
+Loss before income tax expense and noncontrolling interest (612,460) (206,491) (172,709) 
+Income tax (benefit) expense (2,767) 2,784 3,785 
+Net loss including noncontrolling interest (609,693) (209,275) (176,494) 
+Net loss attributable to noncontrolling interest, net of tax (10,200) (4,000) (431) 
+Net loss attributable to Arrowhead Pharmaceuticals, Inc. $ (599,493) $ (205,275) $ (176,063)
+
+----------------------------------------
+
+INTERPRETATION LIMITS
+- Similarity measures semantic relevance, not truth.
+- Keyword reranking is a heuristic and may not improve every query.
+- A retrieved excerpt may omit important surrounding context.
+- These passages do not automatically establish a complete answer.
+- Absence of evidence in these passages does not prove absence of risk.
+- Verify figures and statements against the original SEC filing.
+- No paid LLM or generative API was used to create this response.

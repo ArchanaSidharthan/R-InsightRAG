@@ -1,0 +1,19 @@
+
+# Local Python environments and secrets
+.Renviron
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+
+# Large generated retrieval index
+data/processed/retrieval_index/
+submission_stage/
+submission_package/
+
+# Local RStudio and temporary files
+.Rhistory
+.RData
+.Rproj.user/

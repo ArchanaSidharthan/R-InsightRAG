@@ -1,0 +1,7 @@
+query_id,method,passages,distinct_companies,mean_semantic_score,mean_keyword_count
+Q02,Expanded hybrid,5,4,0.6424931607907376,4.6
+Q02,Expanded semantic,5,5,0.6666440390632875,2.4
+Q02,Original semantic,5,3,0.6490215263845943,2.6
+Q03,Expanded hybrid,5,2,0.7019340250314468,9
+Q03,Expanded semantic,5,2,0.7581390167050813,2.8
+Q03,Original semantic,5,2,0.7459383110469995,4.6

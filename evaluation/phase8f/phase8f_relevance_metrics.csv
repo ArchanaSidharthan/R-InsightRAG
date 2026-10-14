@@ -1,0 +1,7 @@
+query_id,topic,method,relevant_in_top5,Precision@5,first_relevant_rank,reciprocal_rank,unique_companies,mean_semantic_score
+Q02,Revenue and sales,Expanded hybrid,4,0.8,1,1.0,4,0.6424931607907376
+Q02,Revenue and sales,Expanded semantic,4,0.8,1,1.0,5,0.6666440390632875
+Q02,Revenue and sales,Original semantic,4,0.8,1,1.0,3,0.6490215263845942
+Q03,Operating cash flows,Expanded hybrid,5,1.0,1,1.0,2,0.7019340250314469
+Q03,Operating cash flows,Expanded semantic,5,1.0,1,1.0,2,0.7581390167050813
+Q03,Operating cash flows,Original semantic,5,1.0,1,1.0,2,0.7459383110469995
